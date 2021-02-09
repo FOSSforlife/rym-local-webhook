@@ -49,6 +49,7 @@ chokidar.watch('./html/*.html').on('all', async (event, path) => {
     }
   }));
 
+  fs.writeFileSync('year-top-albums.json', JSON.stringify(albums, null, 4));
 
   if(updated) {
     const dateLastUpdated = new Date(dateLastUpdatedStr);
