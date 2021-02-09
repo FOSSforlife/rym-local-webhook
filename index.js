@@ -7,7 +7,7 @@ const simpleGit = require('simple-git');
 const git = simpleGit();
 require('dotenv').config();
 
-const WEBHOOK_URL = process.env.WEBHOOK_URL;
+const { WEBHOOK_URL } = process.env;
 
 const albumListMap = (album) => `
 **${album.position}. ${album.artist}** - ${album.title} (${album.primaryGenres.join(', ')} - ${album.avgRating})
@@ -61,7 +61,7 @@ chokidar.watch('./html/*.html').on('all', async (event, path) => {
     console.log(content);
     axios.post(WEBHOOK_URL, { content });
 
-    git.add('year-top-albums.json')
+    git.add(['year-top-albums.json', 'html', 'last-updated'])
       .commit(`Chart update ${truncatedDateStr}`)
       .push();
   }
