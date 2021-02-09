@@ -3,6 +3,8 @@ const axios = require('axios');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 const chokidar = require('chokidar');
+const simpleGit = require('simple-git');
+const git = simpleGit();
 require('dotenv').config();
 
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
@@ -14,7 +16,7 @@ ${album.link}`;
 chokidar.watch('./html/*.html').on('all', async (event, path) => {
   console.log(event, path);
 
-  const webContent = fs.readFileSync('./html/Best albums of 2021 - Rate Your Music.html').toString();
+  const webContent = fs.readFileSync(path).toString();
   const dom = new JSDOM(webContent.substring(webContent.indexOf('<!DOCTYPE html>'), webContent.indexOf('</html>')));
   const newline = /\n/gi;
 
@@ -58,5 +60,9 @@ chokidar.watch('./html/*.html').on('all', async (event, path) => {
     const content = header + albums.slice(0, 10).map(albumListMap).join('\n');
     console.log(content);
     axios.post(WEBHOOK_URL, { content });
+
+    git.add('year-top-albums.json')
+      .commit(`Chart update ${truncatedDateStr}`)
+      .push();
   }
 });
