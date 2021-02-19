@@ -1,49 +1,45 @@
 [
     {
-        "link": "https://rateyourmusic.com/release/album/black-country-new-road/for-the-first-time/",
-        "albumArt": "https://e.snmc.io/i/300/w/b5b87a8e67078af71f0b53d26a9bb539/8538705",
+        "albumArt": "https://e.snmc.io/i/300/w/212d788b69add00e7181b68062ac3079/8793112",
         "position": 1,
-        "title": "For the First Time",
-        "artist": "Black Country, New Road",
+        "title": "Forever in Your Heart",
+        "artist": "Black Dresses",
         "releaseDate": {
             "month": "February",
-            "date": 5,
+            "date": 14,
             "year": 2021
         },
-        "avgRating": 3.82,
-        "ratings": null,
-        "reviews": 119,
+        "avgRating": 3.9,
+        "ratings": 423,
+        "reviews": 18,
         "primaryGenres": [
-            "Post-Rock",
-            "Post-Punk",
-            "Experimental Rock"
+            "Electro-Industrial",
+            "Industrial Rock"
         ],
         "secondaryGenres": [
-            "Klezmer",
-            "Art Punk",
-            "Art Rock"
+            "Industrial Metal",
+            "Glitch Pop",
+            "Electroclash",
+            "Noise                                 Pop"
         ],
         "descriptors": [
-            "anxious",
-            "manic",
-            "male vocals",
-            "monologue",
-            "suspenseful",
-            "progressive",
-            "abstract",
-            "introspective",
-            "cryptic",
-            "dissonant"
+            "female vocals",
+            "noisy",
+            "LGBT",
+            "aggressive",
+            "mechanical",
+            "dark",
+            "dissonant",
+            "raw",
+            "ominous",
+            "anxious"
         ],
         "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/for-the-first-time/1533822061?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://blackcountrynewroad.bandcamp.com/album/for-the-first-time",
-            "soundcloud": "https://soundcloud.com/blackcountrynewroad/sets/for-the-first-time-972675155",
-            "spotify": "https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX"
+            "bandcamp": "https://blackdresses.bandcamp.com/album/forever-in-your-heart",
+            "youtube": "https://www.youtube.com/watch?v=83QU6PIsuU8"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/ad-nauseam/imperative-imperceptible-impulse/",
         "albumArt": "https://e.snmc.io/i/300/w/c3450737eebbb08e9bdc381c7307d1e7/8752489",
         "position": 2,
         "title": "Imperative Imperceptible Impulse",
@@ -53,9 +49,9 @@
             "date": 12,
             "year": 2021
         },
-        "avgRating": 3.83,
-        "ratings": 190,
-        "reviews": 2,
+        "avgRating": 3.82,
+        "ratings": 462,
+        "reviews": 7,
         "primaryGenres": [
             "Technical Death Metal",
             "Avant-Garde Metal"
@@ -64,180 +60,171 @@
             "Progressive Metal"
         ],
         "descriptors": [
-            "uncommon time signatures",
             "technical",
-            "heavy",
+            "uncommon time signatures",
             "complex",
-            "avant-garde",
             "dissonant",
-            "male vocals",
-            "dark",
+            "heavy",
+            "avant-garde",
             "aggressive",
+            "dark",
+            "male vocals",
             "atmospheric"
         ],
         "externalLinks": {
-            "bandcamp": "https://avantgardemusic.bandcamp.com/album/imperative-imperceptible-impulse",
-            "youtube": "https://www.youtube.com/watch?v=ma3cKFX9_0g"
+            "bandcamp": "https://adnauseam-official.bandcamp.com/album/imperative-imperceptible-impulse-full-dynamic-range-dr11",
+            "youtube": "https://www.youtube.com/watch?v=g8uwTz0V44I"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/-the-justified-ancients-of-mu-mu/come-down-dawn/",
-        "albumArt": "https://e.snmc.io/i/300/w/5f36cc2469f07324d33c5604d113dd65/8764821",
+        "albumArt": "https://e.snmc.io/i/300/w/b5b87a8e67078af71f0b53d26a9bb539/8538705",
         "position": 3,
-        "title": "Come Down Dawn",
-        "artist": " The Justified Ancients of Mu Mu",
-        "releaseDate": {
-            "month": "February",
-            "date": 4,
-            "year": 2021
-        },
-        "avgRating": 3.86,
-        "ratings": 60,
-        "reviews": null,
-        "primaryGenres": [
-            "Ambient",
-            "Electronic"
-        ],
-        "secondaryGenres": [
-            "Plunderphonics",
-            "Field Recordings",
-            "Spoken Word",
-            "Ambient House",
-            "Tuvan Throat Singing",
-            "Nature Recordings"
-        ],
-        "descriptors": [
-            "spring",
-            "mellow",
-            "repetitive",
-            "surreal",
-            "sampling",
-            "nocturnal",
-            "warm",
-            "psychedelic",
-            "peaceful",
-            "lethargic"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/come-down-dawn/1551403399?mt=1&app=music&at=10l59k&ct=10l59k",
-            "spotify": "https://open.spotify.com/album/4fBvkZkBuPyo3k7ZogKFAo",
-            "youtube": "https://www.youtube.com/watch?v=W99Sn3lYY10"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/transatlantic/the-absolute-universe-forevermore-extended-version/",
-        "albumArt": "https://e.snmc.io/i/300/w/b82a665a06d49d57acc1fd11b91003d2/8588070",
-        "position": 4,
-        "title": "The Absolute Universe: Forevermore (Extended Version)",
-        "artist": "Transatlantic",
+        "title": "For the First Time",
+        "artist": "Black Country, New Road",
         "releaseDate": {
             "month": "February",
             "date": 5,
             "year": 2021
         },
         "avgRating": 3.77,
-        "ratings": 59,
-        "reviews": 2,
+        "ratings": null,
+        "reviews": 156,
         "primaryGenres": [
-            "Progressive Rock",
-            "Symphonic Prog"
+            "Post-Rock",
+            "Experimental Rock",
+            "Post-Punk"
+        ],
+        "secondaryGenres": [
+            "Klezmer",
+            "Art Punk",
+            "Art                                 Rock"
+        ],
+        "descriptors": [
+            "anxious",
+            "manic",
+            "male vocals",
+            "suspenseful",
+            "monologue",
+            "progressive",
+            "abstract",
+            "introspective",
+            "passionate",
+            "cryptic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/for-the-first-time/1533822061?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://blackcountrynewroad.bandcamp.com/album/for-the-first-time",
+            "soundcloud": "https://soundcloud.com/blackcountrynewroad/sets/for-the-first-time-972675155",
+            "spotify": "https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/070c1ff772c54e253af10c8450f275cf/8777749",
+        "position": 4,
+        "title": "Zapper",
+        "artist": "Nanoray",
+        "releaseDate": {
+            "month": "February",
+            "date": 8,
+            "year": 2021
+        },
+        "avgRating": 3.94,
+        "ratings": 39,
+        "reviews": null,
+        "primaryGenres": [
+            "Hardcore                                 Breaks"
         ],
         "secondaryGenres": [
             ""
         ],
         "descriptors": [
-            "complex",
-            "epic",
-            "male vocals",
-            "melodic",
-            "lush"
+            "energetic",
+            "rhythmic",
+            "sampling",
+            "futuristic",
+            "playful",
+            "mechanical",
+            "uplifting",
+            "party",
+            "aggressive",
+            "chaotic"
         ],
         "externalLinks": {
-            "spotify": "https://open.spotify.com/album/3ZKqkWeIrwr6eblRzeJRRj"
+            "bandcamp": "https://nanoray.bandcamp.com/album/zapper"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/the-ruins-of-beverast/the-thule-grimoires/",
-        "albumArt": "https://e.snmc.io/i/300/w/e03cb9b5ba006c1c8b80bb268ff44077/8732701",
+        "albumArt": "https://e.snmc.io/i/300/w/4385ac4031880a0c1338d117f4232872/8782614",
         "position": 5,
-        "title": "The Thule Grimoires",
-        "artist": "The Ruins of Beverast",
+        "title": "???",
+        "artist": "Anthony1",
         "releaseDate": {
             "month": "February",
-            "date": 5,
+            "date": 13,
             "year": 2021
         },
-        "avgRating": 3.62,
-        "ratings": 466,
-        "reviews": null,
-        "primaryGenres": [
-            "Atmospheric Black Metal",
-            "Doom Metal"
-        ],
-        "secondaryGenres": [
-            "Gothic Metal",
-            "Death Doom Metal"
-        ],
-        "descriptors": [
-            "cold",
-            "atmospheric",
-            "dark",
-            "suspenseful",
-            "heavy",
-            "uncommon time signatures",
-            "sombre",
-            "male vocals",
-            "ominous",
-            "mysterious"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/the-thule-grimoires/1545109012?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://theruinsofbeverast.bandcamp.com/album/the-thule-grimoires",
-            "spotify": "https://open.spotify.com/album/6DoZdbiI54w6OQvW9mgIrr",
-            "youtube": "https://www.youtube.com/watch?v=Nd2EOKgxV_M"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/the-weather-station/ignorance/",
-        "albumArt": "https://e.snmc.io/i/300/w/4d7f59d5151f8156794cc088b71b9fc5/8582095",
-        "position": 6,
-        "title": "Ignorance",
-        "artist": "The Weather Station",
-        "releaseDate": {
-            "month": "February",
-            "date": 5,
-            "year": 2021
-        },
-        "avgRating": 3.6,
-        "ratings": 666,
+        "avgRating": 3.68,
+        "ratings": 81,
         "reviews": 4,
         "primaryGenres": [
-            "Art Pop",
-            "Sophisti-Pop"
+            "Hard                                 Trance",
+            "Freeform Hardcore",
+            "HexD"
         ],
         "secondaryGenres": [
-            "Chamber Pop"
+            ""
         ],
         "descriptors": [
+            "noisy",
+            "energetic",
+            "futuristic",
+            "ethereal",
+            "uplifting",
+            "instrumental",
+            "hypnotic",
             "rhythmic",
-            "spring",
-            "female vocals",
-            "existential",
-            "anxious",
-            "longing",
-            "introspective",
-            "serious",
-            "optimistic",
-            "warm"
+            "psychedelic",
+            "lo-fi"
         ],
         "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/ignorance/1524055739?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://theweatherstation.bandcamp.com/album/ignorance",
-            "spotify": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+            "bandcamp": "https://dismissyourself.bandcamp.com/album/-",
+            "soundcloud": "https://soundcloud.com/anth0ny1/sets/album",
+            "spotify": "https://open.spotify.com/album/4fZwVFoccwsAsQqv3U7sLh",
+            "youtube": "https://www.youtube.com/watch?v=39IPxdALBKk"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/evgeni-koroliov/partitas-part-1-bwv-825-826-830/",
+        "albumArt": "https://e.snmc.io/i/300/w/561bf84f663fbd8e54ab336c7cb7393e/8757534",
+        "position": 6,
+        "title": "ENDLESSメガタワー I",
+        "artist": "death's dynamic shroud.wmv\n                        ",
+        "releaseDate": {
+            "month": "February",
+            "date": 1,
+            "year": 2021
+        },
+        "avgRating": 3.78,
+        "ratings": 42,
+        "reviews": null,
+        "primaryGenres": [
+            "Vaporwave"
+        ],
+        "secondaryGenres": [
+            "Ambient",
+            "Video Game Music"
+        ],
+        "descriptors": [
+            "concept album",
+            "sampling",
+            "instrumental",
+            "atmospheric",
+            "psychedelic",
+            "surreal",
+            "eclectic"
+        ],
+        "externalLinks": {}
+    },
+    {
         "albumArt": "https://e.snmc.io/i/300/w/dd97d1c3beeed370dd74cc3ef125d232/8639592",
         "position": 7,
         "title": "Partitas Part 1: BWV 825, 826, 830",
@@ -248,10 +235,10 @@
             "year": 2021
         },
         "avgRating": 3.62,
-        "ratings": 212,
+        "ratings": 235,
         "reviews": 2,
         "primaryGenres": [
-            "Baroque Music"
+            "Baroque                                 Music"
         ],
         "secondaryGenres": [
             ""
@@ -259,13 +246,14 @@
         "descriptors": [
             "suite",
             "instrumental",
-            "polyphonic",
             "acoustic",
             "technical",
+            "polyphonic",
             "passionate",
             "melodic",
             "energetic",
-            "complex"
+            "complex",
+            "ethereal"
         ],
         "externalLinks": {
             "appleMusic": "https://geo.music.apple.com/us/album/koroliov-series-vol-23-johann-sebastian-bach-partitas/1547267945?mt=1&app=music&at=10l59k&ct=10l59k",
@@ -273,48 +261,174 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/mefitis/offscourings/",
-        "albumArt": "https://e.snmc.io/i/300/w/6acc495407416a5bff8ae8d8db7014f5/8603805",
+        "albumArt": "https://e.snmc.io/i/300/w/e03cb9b5ba006c1c8b80bb268ff44077/8732701",
         "position": 8,
-        "title": "Offscourings",
-        "artist": "Mefitis",
+        "title": "The Thule Grimoires",
+        "artist": "The Ruins of Beverast",
         "releaseDate": {
-            "month": "January",
-            "date": 30,
+            "month": "February",
+            "date": 5,
             "year": 2021
         },
-        "avgRating": 3.57,
-        "ratings": 131,
-        "reviews": 1,
+        "avgRating": 3.56,
+        "ratings": 662,
+        "reviews": 2,
         "primaryGenres": [
-            "Death Metal"
+            "Atmospheric Black Metal",
+            "Doom                                 Metal"
         ],
         "secondaryGenres": [
-            "Black Metal",
-            "Progressive Metal"
+            "Gothic Metal",
+            "Death Doom Metal"
         ],
         "descriptors": [
-            "dissonant",
-            "progressive",
-            "suspenseful",
+            "dark",
+            "cold",
+            "atmospheric",
             "heavy",
+            "sombre",
+            "suspenseful",
+            "male vocals",
+            "ominous",
             "uncommon time signatures",
-            "nocturnal",
-            "technical",
-            "playful",
-            "death",
-            "ritualistic"
+            "nocturnal"
         ],
         "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/offscourings/1552285797?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://thetruemefitis.bandcamp.com/album/offscourings",
-            "spotify": "https://open.spotify.com/album/60nSbvWdkcqYtzNfvAWWJp"
+            "appleMusic": "https://geo.music.apple.com/us/album/the-thule-grimoires/1545109012?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://theruinsofbeverast.bandcamp.com/album/the-thule-grimoires",
+            "spotify": "https://open.spotify.com/album/6DoZdbiI54w6OQvW9mgIrr",
+            "youtube": "https://www.youtube.com/watch?v=Nd2EOKgxV_M"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/ferriterium/calvaire/",
-        "albumArt": "https://e.snmc.io/i/300/w/38fdaad25419621775f7d7a5a777a91e/8720851",
+        "albumArt": "https://e.snmc.io/i/300/w/b82a665a06d49d57acc1fd11b91003d2/8588070",
         "position": 9,
+        "title": "The Absolute Universe: Forevermore (Extended\n                              Version)",
+        "artist": "Transatlantic",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.63,
+        "ratings": 129,
+        "reviews": 5,
+        "primaryGenres": [
+            "Progressive Rock",
+            "Symphonic                                 Prog"
+        ],
+        "secondaryGenres": [
+            ""
+        ],
+        "descriptors": [
+            "complex",
+            "epic",
+            "male vocals",
+            "melodic",
+            "progressive"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/the-absolute-universe-forevermore-extended-version/1539022311?mt=1&app=music&at=10l59k&ct=10l59k",
+            "spotify": "https://open.spotify.com/album/3ZKqkWeIrwr6eblRzeJRRj"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/3b2f248157c5cc8c93ceb64f21c64070/8752640",
+        "position": 10,
+        "title": "X Marks the Spot",
+        "artist": "Art of Illusion",
+        "releaseDate": {
+            "month": "January",
+            "date": 29,
+            "year": 2021
+        },
+        "avgRating": 3.85,
+        "ratings": 20,
+        "reviews": 4,
+        "primaryGenres": [
+            "AOR"
+        ],
+        "secondaryGenres": [
+            "Progressive Rock",
+            "Symphonic Rock"
+        ],
+        "descriptors": [
+            "melodic",
+            "male vocals",
+            "passionate",
+            "energetic"
+        ],
+        "externalLinks": {
+            "spotify": "https://open.spotify.com/album/3OH5o2EdQH1HUUbFYRSf67"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/4011df03178c5a1eafca3f98ae80c289/8581688",
+        "position": 11,
+        "title": "Omega",
+        "artist": "Epica",
+        "releaseDate": {
+            "month": "February",
+            "date": 26,
+            "year": 2021
+        },
+        "avgRating": 3.88,
+        "ratings": 20,
+        "reviews": 1,
+        "primaryGenres": [
+            "Symphonic Metal"
+        ],
+        "secondaryGenres": [
+            "Progressive Metal",
+            "Power Metal"
+        ],
+        "descriptors": [
+            "female vocals",
+            "melodic",
+            "epic",
+            "orchestral",
+            "male vocals",
+            "energetic"
+        ],
+        "externalLinks": {}
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/0c3d43ba7f95b5b9297a246c3beb8f74/8588051",
+        "position": 12,
+        "title": "The Absolute Universe: The Breath of Life\n                              (Abridged Version)",
+        "artist": "Transatlantic",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.65,
+        "ratings": 65,
+        "reviews": 4,
+        "primaryGenres": [
+            "Progressive Rock",
+            "Symphonic                                 Prog"
+        ],
+        "secondaryGenres": [
+            ""
+        ],
+        "descriptors": [
+            "male vocals",
+            "technical",
+            "melodic",
+            "complex",
+            "epic",
+            "progressive",
+            "lush"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/the-absolute-universe-the-breath-of-life-abridged-version/1538875195?mt=1&app=music&at=10l59k&ct=10l59k",
+            "spotify": "https://open.spotify.com/album/7iy5E1r9aqy8q48IDbEjyN"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/38fdaad25419621775f7d7a5a777a91e/8720851",
+        "position": 13,
         "title": "Calvaire",
         "artist": "Ferriterium",
         "releaseDate": {
@@ -323,10 +437,10 @@
             "year": 2021
         },
         "avgRating": 3.53,
-        "ratings": 307,
-        "reviews": 3,
+        "ratings": 351,
+        "reviews": 4,
         "primaryGenres": [
-            "Black Metal"
+            "Black                                 Metal"
         ],
         "secondaryGenres": [
             "Melodic Black Metal"
@@ -345,87 +459,18 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/naked-days/my-head-hz/",
-        "albumArt": "https://e.snmc.io/i/300/w/fb75832910cec5e37b9c12648a183489/8770235",
-        "position": 10,
-        "title": "My Head Hz",
-        "artist": "Naked Days",
-        "releaseDate": {
-            "month": "February",
-            "date": 6,
-            "year": 2021
-        },
-        "avgRating": 3.72,
-        "ratings": 41,
-        "reviews": null,
-        "primaryGenres": [
-            "Singer/Songwriter",
-            "Indie Folk"
-        ],
-        "secondaryGenres": [
-            "Indie Rock",
-            "Chamber Pop"
-        ],
-        "descriptors": [
-            "male vocals",
-            "introspective",
-            "mellow",
-            "abstract",
-            "bittersweet",
-            "sentimental"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://nakeddays.bandcamp.com/album/my-head-hz",
-            "spotify": "https://open.spotify.com/album/4JXUfBNg1XmPjwcIIvgVq4"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/psychedelic-porn-crumpets/shyga-the-sunlight-mound/",
-        "albumArt": "https://e.snmc.io/i/300/w/9ba4025ca0f448d8924dff442beb4c52/8510379",
-        "position": 11,
-        "title": "Shyga! the Sunlight Mound",
-        "artist": "Psychedelic Porn Crumpets",
-        "releaseDate": {
-            "month": "February",
-            "date": 5,
-            "year": 2021
-        },
-        "avgRating": 3.55,
-        "ratings": 183,
-        "reviews": 1,
-        "primaryGenres": [
-            "Heavy Psych"
-        ],
-        "secondaryGenres": [
-            "Garage Rock"
-        ],
-        "descriptors": [
-            "dense",
-            "psychedelic",
-            "male vocals",
-            "raw",
-            "energetic",
-            "noisy"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/shyga-the-sunlight-mound/1531509545?mt=1&app=music&at=10l59k&ct=10l59k",
-            "spotify": "https://open.spotify.com/album/7Huw5Su2SFHiKqZHdrDlVl"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/stargazer/psychic-secretions/",
         "albumArt": "https://e.snmc.io/i/300/w/8202407f0a8c71e90cfd14e45034a902/8529473",
-        "position": 12,
+        "position": 14,
         "title": "Psychic Secretions",
         "artist": "StarGazer",
         "releaseDate": {
-            "month": "2021",
+            "month": "2021\n\n\n\n",
             "date": null,
             "year": 0
         },
-        "avgRating": 3.55,
-        "ratings": 103,
-        "reviews": null,
+        "avgRating": 3.53,
+        "ratings": 143,
+        "reviews": 3,
         "primaryGenres": [
             "Technical Death Metal"
         ],
@@ -434,7 +479,10 @@
             "Black Metal"
         ],
         "descriptors": [
-            ""
+            "dark",
+            "technical",
+            "playful",
+            "male vocals"
         ],
         "externalLinks": {
             "bandcamp": "https://stargazeraustralia.bandcamp.com/album/psychic-secretions",
@@ -442,87 +490,6 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/white-suns/the-lower-way/",
-        "albumArt": "https://e.snmc.io/i/300/w/0f73adf37b0f2aad39f965b5ea795eb0/8620128",
-        "position": 13,
-        "title": "The Lower Way",
-        "artist": "White Suns",
-        "releaseDate": {
-            "month": "February",
-            "date": 5,
-            "year": 2021
-        },
-        "avgRating": 3.71,
-        "ratings": 29,
-        "reviews": 1,
-        "primaryGenres": [
-            "Noise",
-            "Noise Rock"
-        ],
-        "secondaryGenres": [
-            "Experimental Rock",
-            "Spoken Word",
-            "Noise Rock",
-            "Power Electronics",
-            "Industrial"
-        ],
-        "descriptors": [
-            "scary",
-            "surreal",
-            "dark",
-            "abstract",
-            "disturbing",
-            "avant-garde",
-            "male vocals",
-            "chaotic",
-            "ominous"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://decoherence.bandcamp.com/album/the-lower-way"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/wardruna/kvitravn/",
-        "albumArt": "https://e.snmc.io/i/300/w/a32feef203bea74fb8e38f52339b2d3f/7979068",
-        "position": 14,
-        "title": "Kvitravn",
-        "artist": "Wardruna",
-        "releaseDate": {
-            "month": "January",
-            "date": 22,
-            "year": 2021
-        },
-        "avgRating": 3.47,
-        "ratings": 574,
-        "reviews": 7,
-        "primaryGenres": [
-            "Dark Folk",
-            "Nordic Folk Music"
-        ],
-        "secondaryGenres": [
-            "Tribal Ambient",
-            "Ritual Ambient",
-            "Norwegian Folk Music"
-        ],
-        "descriptors": [
-            "male vocals",
-            "tribal",
-            "atmospheric",
-            "rhythmic",
-            "dark",
-            "hypnotic",
-            "sombre",
-            "acoustic",
-            "ritualistic",
-            "cold"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/kvitravn/1498752476?mt=1&app=music&at=10l59k&ct=10l59k",
-            "spotify": "https://open.spotify.com/album/6xMpbnSwIddBUx86hq2dTp"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/shame/drunk-tank-pink/",
         "albumArt": "https://e.snmc.io/i/300/w/d86bc28a128df0d2753636c6d40be804/8583816",
         "position": 15,
         "title": "Drunk Tank Pink",
@@ -534,10 +501,10 @@
         },
         "avgRating": 3.45,
         "ratings": null,
-        "reviews": 44,
+        "reviews": 47,
         "primaryGenres": [
             "Post-Punk",
-            "Art Punk"
+            "Art                                 Punk"
         ],
         "secondaryGenres": [
             "Post-Hardcore",
@@ -564,9 +531,127 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/madlib/sound-ancestors/",
-        "albumArt": "https://e.snmc.io/i/300/w/21a6664faf530072e96b96fbf2453605/8758839",
+        "albumArt": "https://e.snmc.io/i/300/w/4d7f59d5151f8156794cc088b71b9fc5/8582095",
         "position": 16,
+        "title": "Ignorance",
+        "artist": "The Weather Station",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.46,
+        "ratings": null,
+        "reviews": 15,
+        "primaryGenres": [
+            "Sophisti-Pop",
+            "Art                                 Pop"
+        ],
+        "secondaryGenres": [
+            "Chamber Pop",
+            "Indie                                 Pop"
+        ],
+        "descriptors": [
+            "rhythmic",
+            "female vocals",
+            "existential",
+            "introspective",
+            "bittersweet",
+            "serious",
+            "nature",
+            "atmospheric",
+            "optimistic",
+            "warm"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/ignorance/1524055739?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://theweatherstation.bandcamp.com/album/ignorance",
+            "spotify": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/33005a61c768b8e24f4158094be64eb1/8785844",
+        "position": 17,
+        "title": "Tyron",
+        "artist": "slowthai",
+        "releaseDate": {
+            "month": "February",
+            "date": 12,
+            "year": 2021
+        },
+        "avgRating": 3.43,
+        "ratings": null,
+        "reviews": 23,
+        "primaryGenres": [
+            "UK Hip                                 Hop",
+            "Trap"
+        ],
+        "secondaryGenres": [
+            "Conscious Hip Hop",
+            "Hardcore                                 Hip Hop",
+            "Alternative R&B"
+        ],
+        "descriptors": [
+            "male vocals",
+            "introspective",
+            "conscious",
+            "rhythmic",
+            "boastful",
+            "bittersweet",
+            "dark",
+            "playful",
+            "urban",
+            "energetic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/tyron/1538562860?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://slowthai.bandcamp.com/album/tyron",
+            "soundcloud": "https://soundcloud.com/slowthai/sets/tyron-9",
+            "spotify": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/a32feef203bea74fb8e38f52339b2d3f/7979068",
+        "position": 18,
+        "title": "Kvitravn",
+        "artist": "Wardruna",
+        "releaseDate": {
+            "month": "January",
+            "date": 22,
+            "year": 2021
+        },
+        "avgRating": 3.45,
+        "ratings": 659,
+        "reviews": 9,
+        "primaryGenres": [
+            "Dark Folk",
+            "Nordic                                 Folk Music"
+        ],
+        "secondaryGenres": [
+            "Ritual Ambient",
+            "Tribal                                 Ambient",
+            "Norwegian Folk Music"
+        ],
+        "descriptors": [
+            "male vocals",
+            "tribal",
+            "atmospheric",
+            "dark",
+            "rhythmic",
+            "acoustic",
+            "sombre",
+            "hypnotic",
+            "ritualistic",
+            "cold"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/kvitravn/1498752476?mt=1&app=music&at=10l59k&ct=10l59k",
+            "spotify": "https://open.spotify.com/album/6xMpbnSwIddBUx86hq2dTp"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/21a6664faf530072e96b96fbf2453605/8758839",
+        "position": 19,
         "title": "Sound Ancestors",
         "artist": "Madlib",
         "releaseDate": {
@@ -574,14 +659,16 @@
             "date": 29,
             "year": 2021
         },
-        "avgRating": 3.46,
+        "avgRating": 3.44,
         "ratings": null,
-        "reviews": 20,
+        "reviews": 28,
         "primaryGenres": [
             "Instrumental Hip Hop"
         ],
         "secondaryGenres": [
-            "Boom Bap"
+            "Boom                                 Bap",
+            "Spiritual Jazz",
+            "Experimental Hip Hop"
         ],
         "descriptors": [
             "sampling",
@@ -604,81 +691,8 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/jim-orourke/steamroom-53/",
-        "albumArt": "https://e.snmc.io/i/300/w/1fe520fdbb69d740ed7d9a95cd2688be/8745196",
-        "position": 17,
-        "title": "Steamroom 53",
-        "artist": "Jim O'Rourke",
-        "releaseDate": {
-            "month": "January",
-            "date": 27,
-            "year": 2021
-        },
-        "avgRating": 3.61,
-        "ratings": 51,
-        "reviews": null,
-        "primaryGenres": [
-            "Ambient",
-            "Electroacoustic"
-        ],
-        "secondaryGenres": [
-            "Drone",
-            "Reductionism"
-        ],
-        "descriptors": [
-            "instrumental",
-            "atmospheric",
-            "calm",
-            "dark",
-            "melancholic",
-            "peaceful",
-            "lethargic",
-            "atonal",
-            "minimalistic",
-            "avant-garde"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://steamroom.bandcamp.com/album/steamroom-53"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/conway-big-ghost-ltd/if-it-bleeds-it-can-be-killed/",
-        "albumArt": "https://e.snmc.io/i/300/w/2cd11d33d0a65d4e8bdcac3c2b6c37b3/8768142",
-        "position": 18,
-        "title": "If It Bleeds It Can Be Killed",
-        "artist": "Conway & Big Ghost Ltd.",
-        "releaseDate": {
-            "month": "February",
-            "date": 5,
-            "year": 2021
-        },
-        "avgRating": 3.52,
-        "ratings": 129,
-        "reviews": 4,
-        "primaryGenres": [
-            "Hardcore Hip Hop",
-            "East Coast Hip Hop"
-        ],
-        "secondaryGenres": [
-            "Gangsta Rap"
-        ],
-        "descriptors": [
-            "boastful",
-            "male vocals",
-            "violence",
-            "crime",
-            "drugs",
-            "urban",
-            "introspective"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://bigghostlimited.bandcamp.com/album/if-it-bleeds-it-can-be-killed"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/portrayal-of-guilt/we-are-always-alone/",
         "albumArt": "https://e.snmc.io/i/300/w/c9146010b55761cf5049c115313ef78d/8535236",
-        "position": 19,
+        "position": 20,
         "title": "We Are Always Alone",
         "artist": "Portrayal of Guilt",
         "releaseDate": {
@@ -686,9 +700,9 @@
             "date": 29,
             "year": 2021
         },
-        "avgRating": 3.45,
-        "ratings": 645,
-        "reviews": 7,
+        "avgRating": 3.44,
+        "ratings": 771,
+        "reviews": 8,
         "primaryGenres": [
             "Screamo"
         ],
@@ -704,8 +718,8 @@
             "hateful",
             "alienation",
             "male vocals",
-            "anxious",
-            "dissonant"
+            "dissonant",
+            "self-hatred"
         ],
         "externalLinks": {
             "appleMusic": "https://geo.music.apple.com/us/album/we-are-always-alone/1534534942?mt=1&app=music&at=10l59k&ct=10l59k",
@@ -714,374 +728,116 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/grima/rotten-garden/",
-        "albumArt": "https:https://e.snmc.io/2.5/img/artwork_missing150x150.png",
-        "position": 20,
-        "title": "Rotten Garden",
-        "artist": "Grima",
-        "releaseDate": {
-            "month": "January",
-            "date": 22,
-            "year": 2021
-        },
-        "avgRating": 3.45,
-        "ratings": 226,
-        "reviews": 2,
-        "primaryGenres": [
-            "Atmospheric Black Metal"
-        ],
-        "secondaryGenres": [
-            "Melodic Black Metal"
-        ],
-        "descriptors": [
-            "dark",
-            "sombre",
-            "nature",
-            "male vocals",
-            "cold",
-            "atmospheric"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/rotting-garden/1546081106?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://naturmachtproductions.bandcamp.com/album/rotten-garden",
-            "spotify": "https://open.spotify.com/album/0ee8eDh6OL5pnhthJoFDdI",
-            "youtube": "https://www.youtube.com/watch?v=iz-yARRdNcc"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/the-body/ive-seen-all-i-need-to-see/",
-        "albumArt": "https://e.snmc.io/i/300/w/c1a49746790fefe144b966cc4041d2ae/8507536",
+        "albumArt": "https://e.snmc.io/i/300/w/12daefa4bcd633145a2347d6d3030fd6/8568005",
         "position": 21,
-        "title": "I've Seen All I Need to See",
-        "artist": "The Body",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.41,
-        "ratings": null,
-        "reviews": 11,
-        "primaryGenres": [
-            "Power Electronics",
-            "Drone Metal"
-        ],
-        "secondaryGenres": [
-            "Death Industrial",
-            "Sludge Metal"
-        ],
-        "descriptors": [
-            "noisy",
-            "infernal",
-            "aggressive",
-            "raw",
-            "male vocals",
-            "atmospheric",
-            "dark",
-            "dissonant",
-            "heavy",
-            "disturbing"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/ive-seen-all-i-need-to-see/1534023890?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://thebody.bandcamp.com/album/ive-seen-all-i-need-to-see",
-            "spotify": "https://open.spotify.com/album/3vRrTXRKeqF9eotYWzpOlZ"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/angelus-apatrida/angelus-apatrida/",
-        "albumArt": "https://e.snmc.io/i/300/w/11b0714cd85d005fe7673c8bc7924864/8768036",
-        "position": 22,
-        "title": "Angelus Apatrida",
-        "artist": "Angelus Apatrida",
+        "title": "In Spite Of",
+        "artist": "For Your Health",
         "releaseDate": {
             "month": "February",
-            "date": 5,
+            "date": 12,
             "year": 2021
         },
         "avgRating": 3.5,
-        "ratings": 47,
+        "ratings": 124,
         "reviews": 1,
         "primaryGenres": [
-            "Thrash Metal"
+            "Screamo",
+            "Metalcore"
         ],
         "secondaryGenres": [
-            ""
+            "Mathcore",
+            "Emoviolence"
         ],
         "descriptors": [
-            ""
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/angelus-apatrida/1538875536?mt=1&app=music&at=10l59k&ct=10l59k",
-            "spotify": "https://open.spotify.com/album/5XuLS24vdrxouiBERuXTbr"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/yoth-iria/as-the-flame-withers/",
-        "albumArt": "https://e.snmc.io/i/300/w/3c20f0d1a68b2f1e94deae72ca5394d3/8550677",
-        "position": 23,
-        "title": "As the Flame Withers",
-        "artist": "Yoth Iria",
-        "releaseDate": {
-            "month": "January",
-            "date": 25,
-            "year": 2021
-        },
-        "avgRating": 3.47,
-        "ratings": 127,
-        "reviews": 1,
-        "primaryGenres": [
-            "Melodic Black Metal"
-        ],
-        "secondaryGenres": [
-            "Heavy Metal",
-            "Doom Metal"
-        ],
-        "descriptors": [
+            "noisy",
+            "passionate",
+            "aggressive",
+            "energetic",
+            "dissonant",
+            "heavy",
+            "manic",
             "dark",
-            "melodic",
-            "occult",
-            "epic",
-            "mythology",
-            "male vocals",
-            "mysterious",
-            "energetic"
+            "anxious",
+            "raw"
         ],
         "externalLinks": {
-            "bandcamp": "https://paganrecords.bandcamp.com/album/as-the-flame-withers",
-            "spotify": "https://open.spotify.com/album/2Lcn0lHI7oOkl68fXBBciK",
-            "youtube": "https://www.youtube.com/watch?v=l878SoA1QGU"
+            "appleMusic": "https://geo.music.apple.com/us/album/in-spite-of/1540767615?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://foryourhealth.bandcamp.com/album/in-spite-of",
+            "spotify": "https://open.spotify.com/album/74dQdtxUtaMiyah8rHt5g7"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/transatlantic/the-absolute-universe-the-breath-of-life-abridged-version/",
-        "albumArt": "https://e.snmc.io/i/300/w/0c3d43ba7f95b5b9297a246c3beb8f74/8588051",
-        "position": 24,
-        "title": "The Absolute Universe: The Breath of Life (Abridged Version)",
-        "artist": "Transatlantic",
+        "albumArt": "https://e.snmc.io/i/300/w/57fe77e351fd9e9d11c746054d14375b/8770152",
+        "position": 22,
+        "title": "Live Online at Bangerfest 2, 2​/​5​/​21",
+        "artist": "999 Heartake Sabileye",
         "releaseDate": {
             "month": "February",
             "date": 5,
             "year": 2021
         },
         "avgRating": 3.58,
-        "ratings": 38,
-        "reviews": 1,
-        "primaryGenres": [
-            "Progressive Rock",
-            "Symphonic Prog"
-        ],
-        "secondaryGenres": [
-            ""
-        ],
-        "descriptors": [
-            "complex",
-            "technical",
-            "melodic",
-            "epic",
-            "lush",
-            "male vocals"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/the-absolute-universe-the-breath-of-life-abridged-version/1538875195?mt=1&app=music&at=10l59k&ct=10l59k"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/loathe/the-things-they-believe/",
-        "albumArt": "https://e.snmc.io/i/300/w/2dfe32a5f06a02a142d6fc41d9978f6d/8735078",
-        "position": 25,
-        "title": "The Things They Believe",
-        "artist": "Loathe",
-        "releaseDate": {
-            "month": "February",
-            "date": 7,
-            "year": 2021
-        },
-        "avgRating": 3.44,
-        "ratings": 132,
-        "reviews": 4,
-        "primaryGenres": [
-            "Ambient",
-            "Drone"
-        ],
-        "secondaryGenres": [
-            "Dark Ambient",
-            "New Age",
-            "Drone"
-        ],
-        "descriptors": [
-            "atmospheric",
-            "mellow",
-            "instrumental",
-            "meditative",
-            "ethereal",
-            "calm",
-            "melancholic",
-            "dark",
-            "sombre"
-        ],
-        "externalLinks": {
-            "spotify": "https://open.spotify.com/album/3535gUfkVvjRk1XvDUvhMc"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/weezer/ok-human/",
-        "albumArt": "https://e.snmc.io/i/300/w/281fea695d6857b9434e27d404627043/8730785",
-        "position": 26,
-        "title": "OK Human",
-        "artist": "Weezer",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.35,
-        "ratings": null,
-        "reviews": 109,
-        "primaryGenres": [
-            "Chamber Pop",
-            "Pop Rock"
-        ],
-        "secondaryGenres": [
-            "Baroque Pop",
-            "Piano Rock"
-        ],
-        "descriptors": [
-            "male vocals",
-            "lush",
-            "melodic",
-            "orchestral",
-            "melancholic",
-            "suite",
-            "alienation",
-            "passionate",
-            "bittersweet",
-            "longing"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/ok-human/1549768766?mt=1&app=music&at=10l59k&ct=10l59k",
-            "soundcloud": "https://soundcloud.com/weezer/sets/ok-human",
-            "spotify": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/lia-ices/family-album/",
-        "albumArt": "https://e.snmc.io/i/300/w/1e2bc0a62d07c3b07623a98656b3759b/8682618",
-        "position": 27,
-        "title": "Family Album",
-        "artist": "Lia Ices",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.53,
-        "ratings": 55,
+        "ratings": 32,
         "reviews": null,
         "primaryGenres": [
-            "Singer/Songwriter"
+            "Trap"
         ],
         "secondaryGenres": [
-            "Contemporary Folk",
-            "Alt-Country"
+            "Cloud                                 Rap",
+            "Nightcore",
+            "HexD",
+            "Electropop",
+            "Experimental Hip Hop"
         ],
         "descriptors": [
             ""
         ],
         "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/family-album/1539214921?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://liaices.bandcamp.com/album/family-album",
-            "spotify": "https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD"
+            "bandcamp": "https://999heartakesabileye.bandcamp.com/album/live-online-at-bangerfest-2-2-5-21"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/james-ferraro/terminus/",
-        "albumArt": "https://e.snmc.io/i/300/w/bbf9fff5d16e28ffcbb474d02fcc9786/8740945",
-        "position": 28,
-        "title": "Terminus",
-        "artist": "James Ferraro",
+        "albumArt": "https://e.snmc.io/i/300/w/6acc495407416a5bff8ae8d8db7014f5/8603805",
+        "position": 23,
+        "title": "Offscourings",
+        "artist": "Mefitis",
         "releaseDate": {
             "month": "January",
-            "date": 29,
+            "date": 30,
             "year": 2021
         },
-        "avgRating": 3.39,
-        "ratings": 304,
-        "reviews": 1,
+        "avgRating": 3.46,
+        "ratings": 220,
+        "reviews": 3,
         "primaryGenres": [
-            "Post-Industrial",
-            "Progressive Electronic"
+            "Death                                 Metal"
         ],
         "secondaryGenres": [
-            "EBM",
-            "Dark Ambient",
-            "Electro-Industrial",
-            "Aggrotech",
-            "Industrial Techno"
+            "Progressive Metal",
+            "Black Metal"
         ],
         "descriptors": [
-            "futuristic",
-            "concept album",
-            "aggressive",
-            "atmospheric",
-            "mechanical",
-            "apocalyptic",
-            "rhythmic",
-            "sampling",
-            "dark",
-            "noisy"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://jjamesferraro.bandcamp.com/album/terminus"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/pom-poko/cheater/",
-        "albumArt": "https://e.snmc.io/i/300/w/65ab8009c928febc2bda3deda5f13f5e/8398335",
-        "position": 29,
-        "title": "Cheater",
-        "artist": "Pom Poko",
-        "releaseDate": {
-            "month": "January",
-            "date": 15,
-            "year": 2021
-        },
-        "avgRating": 3.38,
-        "ratings": null,
-        "reviews": 12,
-        "primaryGenres": [
-            "Indie Rock",
-            "Noise Pop"
-        ],
-        "secondaryGenres": [
-            "Math Rock",
-            "Art Punk",
-            "Dance-Punk"
-        ],
-        "descriptors": [
+            "dissonant",
+            "progressive",
+            "suspenseful",
+            "heavy",
+            "uncommon time signatures",
+            "nocturnal",
+            "technical",
             "playful",
-            "quirky",
-            "energetic",
-            "female vocals",
-            "noisy",
-            "happy",
-            "psychedelic",
-            "uplifting",
-            "humorous",
-            "uncommon time signatures"
+            "death",
+            "ritualistic"
         ],
         "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/cheater/1528039300?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://pompoko.bandcamp.com/album/cheater",
-            "soundcloud": "https://soundcloud.com/pompokounofficial/sets/cheater-8",
-            "spotify": "https://open.spotify.com/album/59vf7ECdQd6ZIbfc3zPwey",
-            "youtube": "https://www.youtube.com/watch?v=Wn9iBDQObhQ"
+            "appleMusic": "https://geo.music.apple.com/us/album/offscourings/1552285797?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://thetruemefitis.bandcamp.com/album/offscourings",
+            "spotify": "https://open.spotify.com/album/60nSbvWdkcqYtzNfvAWWJp",
+            "youtube": "https://www.youtube.com/watch?v=q1RfLb6ISjw"
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/black-swan/repetition-hymns/",
         "albumArt": "https://e.snmc.io/i/300/w/74091ec18a2aa81a1f23dd82398ed7a4/8699061",
-        "position": 30,
+        "position": 24,
         "title": "Repetition Hymns",
         "artist": "Black Swan",
         "releaseDate": {
@@ -1089,13 +845,13 @@
             "date": 8,
             "year": 2021
         },
-        "avgRating": 3.42,
-        "ratings": 108,
-        "reviews": 2,
+        "avgRating": 3.46,
+        "ratings": 161,
+        "reviews": 3,
         "primaryGenres": [
             "Ambient",
             "Drone",
-            "Tape Music"
+            "Tape                                 Music"
         ],
         "secondaryGenres": [
             "Modern Classical"
@@ -1120,7 +876,205 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/dipygus/bushmeat/",
+        "albumArt": "https://e.snmc.io/i/300/w/9ba4025ca0f448d8924dff442beb4c52/8510379",
+        "position": 25,
+        "title": "Shyga! the Sunlight Mound",
+        "artist": "Psychedelic Porn Crumpets\n                        ",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.44,
+        "ratings": 432,
+        "reviews": 3,
+        "primaryGenres": [
+            "Heavy                                 Psych"
+        ],
+        "secondaryGenres": [
+            "Garage Rock"
+        ],
+        "descriptors": [
+            "psychedelic",
+            "male vocals",
+            "dense",
+            "noisy",
+            "energetic",
+            "melodic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/shyga-the-sunlight-mound/1531509545?mt=1&app=music&at=10l59k&ct=10l59k",
+            "spotify": "https://open.spotify.com/album/7Huw5Su2SFHiKqZHdrDlVl"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/41f4ca078bf580b89fab5bb34905c92f/8779312",
+        "position": 26,
+        "title": "Rotten Garden",
+        "artist": "Grima",
+        "releaseDate": {
+            "month": "January",
+            "date": 22,
+            "year": 2021
+        },
+        "avgRating": 3.44,
+        "ratings": 275,
+        "reviews": 2,
+        "primaryGenres": [
+            "Atmospheric Black Metal"
+        ],
+        "secondaryGenres": [
+            "Melodic Black Metal"
+        ],
+        "descriptors": [
+            "dark",
+            "sombre",
+            "nature",
+            "male vocals",
+            "cold",
+            "atmospheric"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/rotting-garden/1546081106?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://naturmachtproductions.bandcamp.com/album/rotten-garden",
+            "spotify": "https://open.spotify.com/album/0ee8eDh6OL5pnhthJoFDdI",
+            "youtube": "https://www.youtube.com/watch?v=iz-yARRdNcc"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/2cd11d33d0a65d4e8bdcac3c2b6c37b3/8768142",
+        "position": 27,
+        "title": "If It Bleeds It Can Be Killed",
+        "artist": "Conway & Big Ghost Ltd.",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.45,
+        "ratings": 218,
+        "reviews": 6,
+        "primaryGenres": [
+            "Hardcore Hip Hop",
+            "East                                 Coast Hip Hop"
+        ],
+        "secondaryGenres": [
+            "Gangsta Rap"
+        ],
+        "descriptors": [
+            "drugs",
+            "boastful",
+            "male vocals",
+            "crime",
+            "violence",
+            "atmospheric",
+            "urban",
+            "introspective"
+        ],
+        "externalLinks": {
+            "bandcamp": "https://bigghostlimited.bandcamp.com/album/if-it-bleeds-it-can-be-killed",
+            "spotify": "https://open.spotify.com/album/75qYZFfUhFSQSH2aOWM68s"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/ba50a4dcf8276d7786e25a645b8ee369/8776952",
+        "position": 28,
+        "title": "Little Turtle's War",
+        "artist": "Pan-Amerikan Native Front\n                        ",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.59,
+        "ratings": 42,
+        "reviews": null,
+        "primaryGenres": [
+            "Black                                 Metal"
+        ],
+        "secondaryGenres": [
+            ""
+        ],
+        "descriptors": [
+            "triumphant",
+            "war",
+            "martial",
+            "nature",
+            "history"
+        ],
+        "externalLinks": {
+            "bandcamp": "https://pan-amerikannativefront.bandcamp.com/album/little-turtles-war",
+            "youtube": "https://www.youtube.com/watch?v=9C6KBbvl6v8"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/3f4b963fa9dfc2812ae88379d374e4c9/8719199",
+        "position": 29,
+        "title": "Indaba Is",
+        "artist": "Various Artists",
+        "releaseDate": {
+            "month": "January",
+            "date": 29,
+            "year": 2021
+        },
+        "avgRating": 3.55,
+        "ratings": 52,
+        "reviews": 2,
+        "primaryGenres": [
+            "Afro-Jazz",
+            "Southern African Music"
+        ],
+        "secondaryGenres": [
+            "Soul                                 Jazz"
+        ],
+        "descriptors": [
+            ""
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/indaba-is/1540628446?mt=1&app=music&at=10l59k&ct=10l59k",
+            "spotify": "https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/c1a49746790fefe144b966cc4041d2ae/8507536",
+        "position": 30,
+        "title": "I've Seen All I Need to See",
+        "artist": "The Body",
+        "releaseDate": {
+            "month": "January",
+            "date": 29,
+            "year": 2021
+        },
+        "avgRating": 3.39,
+        "ratings": null,
+        "reviews": 12,
+        "primaryGenres": [
+            "Power                                 Electronics",
+            "Drone                                 Metal"
+        ],
+        "secondaryGenres": [
+            "Death Industrial",
+            "Sludge Metal"
+        ],
+        "descriptors": [
+            "noisy",
+            "infernal",
+            "aggressive",
+            "raw",
+            "male vocals",
+            "atmospheric",
+            "dark",
+            "dissonant",
+            "heavy",
+            "disturbing"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/ive-seen-all-i-need-to-see/1534023890?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://thebody.bandcamp.com/album/ive-seen-all-i-need-to-see",
+            "spotify": "https://open.spotify.com/album/3vRrTXRKeqF9eotYWzpOlZ"
+        }
+    },
+    {
         "albumArt": "https://e.snmc.io/i/300/w/c93caa0cb828637b225b8909ee545412/8576004",
         "position": 31,
         "title": "Bushmeat",
@@ -1131,10 +1085,10 @@
             "year": 2021
         },
         "avgRating": 3.44,
-        "ratings": 83,
+        "ratings": 99,
         "reviews": 1,
         "primaryGenres": [
-            "Death Metal"
+            "Death                                 Metal"
         ],
         "secondaryGenres": [
             ""
@@ -1155,120 +1109,8 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/various-artists/indaba-is/",
-        "albumArt": "https://e.snmc.io/i/300/w/3f4b963fa9dfc2812ae88379d374e4c9/8719199",
-        "position": 32,
-        "title": "Indaba Is",
-        "artist": "Various Artists",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.77,
-        "ratings": 17,
-        "reviews": 1,
-        "primaryGenres": [
-            "Afro-Jazz"
-        ],
-        "secondaryGenres": [
-            ""
-        ],
-        "descriptors": [
-            ""
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/indaba-is/1540628446?mt=1&app=music&at=10l59k&ct=10l59k",
-            "spotify": "https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/swallowtail/in-asymmetric-oceans/",
-        "albumArt": "https://e.snmc.io/i/300/w/eec89997f4532d16dac848bc65aecb3e/8742145",
-        "position": 33,
-        "title": "In Asymmetric Oceans",
-        "artist": "Swallowtail",
-        "releaseDate": {
-            "month": "February",
-            "date": 5,
-            "year": 2021
-        },
-        "avgRating": 3.72,
-        "ratings": 20,
-        "reviews": null,
-        "primaryGenres": [
-            "Ambient Pop"
-        ],
-        "secondaryGenres": [
-            "Psychedelic Folk",
-            "Nature Recordings",
-            "Ambient",
-            "Dream Pop",
-            "Drone",
-            "Noise"
-        ],
-        "descriptors": [
-            "poetic",
-            "lush",
-            "ethereal",
-            "androgynous vocals",
-            "suicide",
-            "melancholic",
-            "sombre",
-            "atmospheric",
-            "bittersweet",
-            "passionate"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://swallowtail-music.bandcamp.com/album/in-asymmetric-oceans",
-            "spotify": "https://open.spotify.com/album/32yQLttgU4OiJustdEjAbS"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/arlo-parks/collapsed-in-sunbeams/",
-        "albumArt": "https://e.snmc.io/i/300/w/57c85a7e3d32e63b6264b2e53a6d9187/8522274",
-        "position": 34,
-        "title": "Collapsed in Sunbeams",
-        "artist": "Arlo Parks",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.35,
-        "ratings": 985,
-        "reviews": 18,
-        "primaryGenres": [
-            "Bedroom Pop",
-            "Neo-Soul"
-        ],
-        "secondaryGenres": [
-            "Trip Hop",
-            "Smooth Soul"
-        ],
-        "descriptors": [
-            "LGBT",
-            "mellow",
-            "calm",
-            "bittersweet",
-            "soothing",
-            "love",
-            "warm",
-            "female vocals",
-            "poetic",
-            "introspective"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/collapsed-in-sunbeams-deluxe/1535799044?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://arloparks.bandcamp.com/album/collapsed-in-sunbeams",
-            "soundcloud": "https://soundcloud.com/arlo_parks/sets/collapsed-in-sunbeams-1",
-            "spotify": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/elori-saxl/the-blue-of-distance/",
         "albumArt": "https://e.snmc.io/i/300/w/84341b409710ccda6d66a46890ba8c31/8736204",
-        "position": 35,
+        "position": 32,
         "title": "The Blue of Distance",
         "artist": "Elori Saxl",
         "releaseDate": {
@@ -1277,15 +1119,15 @@
             "year": 2021
         },
         "avgRating": 3.44,
-        "ratings": 80,
-        "reviews": 2,
+        "ratings": 136,
+        "reviews": 3,
         "primaryGenres": [
             "Ambient",
             "Electroacoustic"
         ],
         "secondaryGenres": [
             "Neoclassicism",
-            "Chamber Music",
+            "Chamber                                 Music",
             "Drone"
         ],
         "descriptors": [
@@ -1307,9 +1149,263 @@
         }
     },
     {
-        "link": "https://rateyourmusic.com/release/album/soen/imperial/",
-        "albumArt": "https://e.snmc.io/i/300/w/591933e78c1efee59554dbbe934574a6/8707572",
+        "albumArt": "https://e.snmc.io/i/300/w/281fea695d6857b9434e27d404627043/8730785",
+        "position": 33,
+        "title": "OK Human",
+        "artist": "Weezer",
+        "releaseDate": {
+            "month": "January",
+            "date": 29,
+            "year": 2021
+        },
+        "avgRating": 3.34,
+        "ratings": null,
+        "reviews": 118,
+        "primaryGenres": [
+            "Chamber                                 Pop",
+            "Pop                                 Rock"
+        ],
+        "secondaryGenres": [
+            "Baroque Pop",
+            "Piano Rock"
+        ],
+        "descriptors": [
+            "male vocals",
+            "lush",
+            "melodic",
+            "orchestral",
+            "melancholic",
+            "suite",
+            "alienation",
+            "passionate",
+            "bittersweet",
+            "longing"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/ok-human/1549768766?mt=1&app=music&at=10l59k&ct=10l59k",
+            "soundcloud": "https://soundcloud.com/weezer/sets/ok-human",
+            "spotify": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/3c20f0d1a68b2f1e94deae72ca5394d3/8550677",
+        "position": 34,
+        "title": "As the Flame Withers",
+        "artist": "Yoth Iria",
+        "releaseDate": {
+            "month": "January",
+            "date": 25,
+            "year": 2021
+        },
+        "avgRating": 3.42,
+        "ratings": 177,
+        "reviews": 3,
+        "primaryGenres": [
+            "Melodic Black Metal"
+        ],
+        "secondaryGenres": [
+            "Doom                                 Metal",
+            "Heavy Metal"
+        ],
+        "descriptors": [
+            "dark",
+            "melodic",
+            "occult",
+            "epic",
+            "mythology",
+            "male vocals",
+            "energetic",
+            "satanic"
+        ],
+        "externalLinks": {
+            "bandcamp": "https://paganrecords.bandcamp.com/album/as-the-flame-withers",
+            "spotify": "https://open.spotify.com/album/2Lcn0lHI7oOkl68fXBBciK",
+            "youtube": "https://www.youtube.com/watch?v=l878SoA1QGU"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/11b0714cd85d005fe7673c8bc7924864/8768036",
+        "position": 35,
+        "title": "Angelus Apatrida",
+        "artist": "Angelus Apatrida",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.42,
+        "ratings": 84,
+        "reviews": 2,
+        "primaryGenres": [
+            "Thrash                                 Metal"
+        ],
+        "secondaryGenres": [
+            ""
+        ],
+        "descriptors": [
+            "political",
+            "aggressive",
+            "male vocals"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/angelus-apatrida/1538875536?mt=1&app=music&at=10l59k&ct=10l59k",
+            "spotify": "https://open.spotify.com/album/5XuLS24vdrxouiBERuXTbr"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/1221a3933cb680041c95178ee2a72160/8613650",
         "position": 36,
+        "title": "Lost Themes III: Alive After Death",
+        "artist": "John Carpenter",
+        "releaseDate": {
+            "month": "February",
+            "date": 5,
+            "year": 2021
+        },
+        "avgRating": 3.41,
+        "ratings": 173,
+        "reviews": 2,
+        "primaryGenres": [
+            "Horror                                 Synth",
+            "Progressive Electronic"
+        ],
+        "secondaryGenres": [
+            "Synthwave"
+        ],
+        "descriptors": [
+            "atmospheric",
+            "suspenseful",
+            "rhythmic",
+            "nocturnal",
+            "instrumental",
+            "ominous",
+            "cold",
+            "mysterious",
+            "hypnotic",
+            "progressive"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/lost-themes-iii-alive-after-death/1534812089?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://johncarpentermusic.bandcamp.com/album/lost-themes-iii-alive-after-death",
+            "spotify": "https://open.spotify.com/album/5W1xfdrKU44SOOR7fKFmxn"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/f8773c6c4447b5e286618f36856b6ac1/8725382",
+        "position": 37,
+        "title": "Samā'ī",
+        "artist": "Azmari",
+        "releaseDate": {
+            "month": "January",
+            "date": 22,
+            "year": 2021
+        },
+        "avgRating": 3.42,
+        "ratings": 147,
+        "reviews": null,
+        "primaryGenres": [
+            "Ethio-Jazz"
+        ],
+        "secondaryGenres": [
+            "Jazz-Rock",
+            "Ambient Dub"
+        ],
+        "descriptors": [
+            "mysterious",
+            "warm",
+            "instrumental",
+            "rhythmic",
+            "playful"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/sam%C4%81%C4%AB/1543140305?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://sdbanrecords.bandcamp.com/album/azmari-sam",
+            "spotify": "https://open.spotify.com/album/4eCzs66aUrEzb3P8vqgYfm"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/1fe520fdbb69d740ed7d9a95cd2688be/8745196",
+        "position": 38,
+        "title": "Steamroom 53",
+        "artist": "Jim O'Rourke",
+        "releaseDate": {
+            "month": "January",
+            "date": 27,
+            "year": 2021
+        },
+        "avgRating": 3.4,
+        "ratings": 96,
+        "reviews": null,
+        "primaryGenres": [
+            "Ambient",
+            "Electroacoustic"
+        ],
+        "secondaryGenres": [
+            "Drone",
+            "Reductionism"
+        ],
+        "descriptors": [
+            "atmospheric",
+            "instrumental",
+            "calm",
+            "avant-garde",
+            "melancholic",
+            "dissonant",
+            "peaceful",
+            "minimalistic",
+            "ethereal",
+            "lush"
+        ],
+        "externalLinks": {
+            "bandcamp": "https://steamroom.bandcamp.com/album/steamroom-53",
+            "youtube": "https://www.youtube.com/watch?v=SlqG_L-ZT38"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/65ab8009c928febc2bda3deda5f13f5e/8398335",
+        "position": 39,
+        "title": "Cheater",
+        "artist": "Pom Poko",
+        "releaseDate": {
+            "month": "January",
+            "date": 15,
+            "year": 2021
+        },
+        "avgRating": 3.36,
+        "ratings": null,
+        "reviews": 14,
+        "primaryGenres": [
+            "Indie                                 Rock",
+            "Noise                                 Pop"
+        ],
+        "secondaryGenres": [
+            "Math                                 Rock",
+            "Art Punk",
+            "Dance-Punk"
+        ],
+        "descriptors": [
+            "playful",
+            "quirky",
+            "energetic",
+            "female vocals",
+            "noisy",
+            "happy",
+            "psychedelic",
+            "uplifting",
+            "humorous",
+            "uncommon time signatures"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://geo.music.apple.com/us/album/cheater/1528039300?mt=1&app=music&at=10l59k&ct=10l59k",
+            "bandcamp": "https://pompoko.bandcamp.com/album/cheater",
+            "soundcloud": "https://soundcloud.com/pompokounofficial/sets/cheater-8",
+            "spotify": "https://open.spotify.com/album/59vf7ECdQd6ZIbfc3zPwey",
+            "youtube": "https://www.youtube.com/watch?v=Wn9iBDQObhQ"
+        }
+    },
+    {
+        "albumArt": "https://e.snmc.io/i/300/w/591933e78c1efee59554dbbe934574a6/8707572",
+        "position": 40,
         "title": "Imperial",
         "artist": "Soen",
         "releaseDate": {
@@ -1317,192 +1413,32 @@
             "date": 29,
             "year": 2021
         },
-        "avgRating": 3.34,
-        "ratings": 406,
-        "reviews": 5,
+        "avgRating": 3.35,
+        "ratings": 478,
+        "reviews": 6,
         "primaryGenres": [
             "Progressive Metal",
-            "Progressive Rock",
-            "Alternative Metal"
+            "Progressive Rock"
         ],
         "secondaryGenres": [
             "Alternative Metal"
         ],
         "descriptors": [
             "melodic",
-            "passionate",
             "male vocals",
+            "passionate",
             "uncommon time signatures",
             "uplifting",
             "progressive",
-            "epic",
             "sombre",
-            "atmospheric",
-            "heavy"
+            "dense",
+            "introspective",
+            "complex"
         ],
         "externalLinks": {
             "appleMusic": "https://geo.music.apple.com/us/album/imperial/1535471913?mt=1&app=music&at=10l59k&ct=10l59k",
             "spotify": "https://open.spotify.com/album/49iLyqy5332uQV3q5qDmA2",
             "youtube": "https://www.youtube.com/watch?v=YV1l18JDYV8"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/tha-god-fahim-x-your-old-droog/tha-wolf-on-wall-st/",
-        "albumArt": "https://e.snmc.io/i/300/w/ed9f39859d982770716f52294d59e6e4/8748702",
-        "position": 37,
-        "title": "Tha Wolf on Wall St.",
-        "artist": "Tha God Fahim x Your Old DroogTha God FahimYour Old Droog",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.39,
-        "ratings": 281,
-        "reviews": 4,
-        "primaryGenres": [
-            "East Coast Hip Hop"
-        ],
-        "secondaryGenres": [
-            "Boom Bap",
-            "Jazz Rap",
-            "Conscious Hip Hop"
-        ],
-        "descriptors": [
-            "existential",
-            "sampling",
-            "dark",
-            "boastful",
-            "male vocals",
-            "conscious",
-            "serious"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/tha-wolf-on-wall-st/1551151860?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://thagodfahim.bandcamp.com/album/tha-wolf-on-wall-st",
-            "spotify": "https://open.spotify.com/album/41bBQZueZm6V7ellQ37jAA"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/the-notwist/vertigo-days/",
-        "albumArt": "https://e.snmc.io/i/300/w/d26dc7d7a55a7f708a28ee0b36013cbd/8572756",
-        "position": 38,
-        "title": "Vertigo Days",
-        "artist": "The Notwist",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.37,
-        "ratings": 358,
-        "reviews": 4,
-        "primaryGenres": [
-            "Indietronica"
-        ],
-        "secondaryGenres": [
-            "Folktronica",
-            "Krautrock",
-            "Neo-Psychedelia"
-        ],
-        "descriptors": [
-            "warm",
-            "psychedelic",
-            "male vocals",
-            "rhythmic",
-            "female vocals"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/vertigo-days/1540070454?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://thenotwist.bandcamp.com/album/vertigo-days",
-            "spotify": "https://open.spotify.com/album/5Kba7KaiVxd5n7JIPFVfmY",
-            "youtube": "https://www.youtube.com/watch?v=ItGHdQEN_G4"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/fievel-is-glauque/gods-trashmen-sent-to-right-the-mess/",
-        "albumArt": "https://e.snmc.io/i/300/w/4f132d36ec4f4fa87c1a2fa75d1c529c/8617353",
-        "position": 39,
-        "title": "God's Trashmen Sent to Right the Mess",
-        "artist": "Fievel Is Glauque",
-        "releaseDate": {
-            "month": "January",
-            "date": 1,
-            "year": 2021
-        },
-        "avgRating": 3.35,
-        "ratings": 690,
-        "reviews": 9,
-        "primaryGenres": [
-            "Jazz Pop",
-            "Progressive Pop"
-        ],
-        "secondaryGenres": [
-            "Yé-yé",
-            "Bossa nova",
-            "Art Pop",
-            "Sophisti-Pop",
-            "Lounge"
-        ],
-        "descriptors": [
-            "lo-fi",
-            "warm",
-            "melodic",
-            "playful",
-            "mellow",
-            "female vocals",
-            "progressive",
-            "rhythmic",
-            "raw",
-            "complex"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/gods-trashmen-sent-to-right-the-mess/1550190740?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://laloi.bandcamp.com/album/gods-trashmen-sent-to-right-the-mess",
-            "spotify": "https://open.spotify.com/album/3dt3UwGLb4VRuUYHCDaHLs"
-        }
-    },
-    {
-        "link": "https://rateyourmusic.com/release/album/sturle-dagsland/sturle-dagsland/",
-        "albumArt": "https://e.snmc.io/i/300/w/a9f0364c76412d559568490a1bb776b1/8730200",
-        "position": 40,
-        "title": "Sturle Dagsland",
-        "artist": "Sturle Dagsland",
-        "releaseDate": {
-            "month": "February",
-            "date": 5,
-            "year": 2021
-        },
-        "avgRating": 3.56,
-        "ratings": 30,
-        "reviews": 1,
-        "primaryGenres": [
-            "Experimental Rock",
-            "Art Pop"
-        ],
-        "secondaryGenres": [
-            "Avant-Folk",
-            "Ambient Pop",
-            "Art Rock",
-            "Industrial Rock",
-            "Modern Classical"
-        ],
-        "descriptors": [
-            "rhythmic",
-            "surreal",
-            "male vocals",
-            "energetic",
-            "aggressive",
-            "noisy",
-            "androgynous vocals",
-            "winter",
-            "atmospheric",
-            "quirky"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://geo.music.apple.com/us/album/sturle-dagsland/1550821876?mt=1&app=music&at=10l59k&ct=10l59k",
-            "bandcamp": "https://sturledagsland.bandcamp.com/album/sturle-dagsland-2",
-            "spotify": "https://open.spotify.com/album/0sOu7YUnBEHM5n2xVNx37K"
         }
     }
 ]
