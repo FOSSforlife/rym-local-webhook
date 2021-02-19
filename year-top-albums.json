@@ -20,7 +20,7 @@
             "Industrial Metal",
             "Glitch Pop",
             "Electroclash",
-            "Noise                                 Pop"
+            "Noise Pop"
         ],
         "descriptors": [
             "female vocals",
@@ -97,7 +97,7 @@
         "secondaryGenres": [
             "Klezmer",
             "Art Punk",
-            "Art                                 Rock"
+            "Art Rock"
         ],
         "descriptors": [
             "anxious",
@@ -132,7 +132,7 @@
         "ratings": 39,
         "reviews": null,
         "primaryGenres": [
-            "Hardcore                                 Breaks"
+            "Hardcore Breaks"
         ],
         "secondaryGenres": [
             ""
@@ -167,7 +167,7 @@
         "ratings": 81,
         "reviews": 4,
         "primaryGenres": [
-            "Hard                                 Trance",
+            "Hard Trance",
             "Freeform Hardcore",
             "HexD"
         ],
@@ -197,7 +197,7 @@
         "albumArt": "https://e.snmc.io/i/300/w/561bf84f663fbd8e54ab336c7cb7393e/8757534",
         "position": 6,
         "title": "ENDLESSメガタワー I",
-        "artist": "death's dynamic shroud.wmv\n                        ",
+        "artist": "death's dynamic shroud.wmv",
         "releaseDate": {
             "month": "February",
             "date": 1,
@@ -238,7 +238,7 @@
         "ratings": 235,
         "reviews": 2,
         "primaryGenres": [
-            "Baroque                                 Music"
+            "Baroque Music"
         ],
         "secondaryGenres": [
             ""
@@ -275,7 +275,7 @@
         "reviews": 2,
         "primaryGenres": [
             "Atmospheric Black Metal",
-            "Doom                                 Metal"
+            "Doom Metal"
         ],
         "secondaryGenres": [
             "Gothic Metal",
@@ -303,7 +303,7 @@
     {
         "albumArt": "https://e.snmc.io/i/300/w/b82a665a06d49d57acc1fd11b91003d2/8588070",
         "position": 9,
-        "title": "The Absolute Universe: Forevermore (Extended\n                              Version)",
+        "title": "The Absolute Universe: Forevermore (Extended Version)",
         "artist": "Transatlantic",
         "releaseDate": {
             "month": "February",
@@ -315,7 +315,7 @@
         "reviews": 5,
         "primaryGenres": [
             "Progressive Rock",
-            "Symphonic                                 Prog"
+            "Symphonic Prog"
         ],
         "secondaryGenres": [
             ""
@@ -395,7 +395,7 @@
     {
         "albumArt": "https://e.snmc.io/i/300/w/0c3d43ba7f95b5b9297a246c3beb8f74/8588051",
         "position": 12,
-        "title": "The Absolute Universe: The Breath of Life\n                              (Abridged Version)",
+        "title": "The Absolute Universe: The Breath of Life (Abridged Version)",
         "artist": "Transatlantic",
         "releaseDate": {
             "month": "February",
@@ -407,7 +407,7 @@
         "reviews": 4,
         "primaryGenres": [
             "Progressive Rock",
-            "Symphonic                                 Prog"
+            "Symphonic Prog"
         ],
         "secondaryGenres": [
             ""
@@ -440,7 +440,7 @@
         "ratings": 351,
         "reviews": 4,
         "primaryGenres": [
-            "Black                                 Metal"
+            "Black Metal"
         ],
         "secondaryGenres": [
             "Melodic Black Metal"
@@ -504,7 +504,7 @@
         "reviews": 47,
         "primaryGenres": [
             "Post-Punk",
-            "Art                                 Punk"
+            "Art Punk"
         ],
         "secondaryGenres": [
             "Post-Hardcore",
@@ -545,11 +545,11 @@
         "reviews": 15,
         "primaryGenres": [
             "Sophisti-Pop",
-            "Art                                 Pop"
+            "Art Pop"
         ],
         "secondaryGenres": [
             "Chamber Pop",
-            "Indie                                 Pop"
+            "Indie Pop"
         ],
         "descriptors": [
             "rhythmic",
@@ -583,12 +583,12 @@
         "ratings": null,
         "reviews": 23,
         "primaryGenres": [
-            "UK Hip                                 Hop",
+            "UK Hip Hop",
             "Trap"
         ],
         "secondaryGenres": [
             "Conscious Hip Hop",
-            "Hardcore                                 Hip Hop",
+            "Hardcore Hip Hop",
             "Alternative R&B"
         ],
         "descriptors": [
@@ -625,11 +625,11 @@
         "reviews": 9,
         "primaryGenres": [
             "Dark Folk",
-            "Nordic                                 Folk Music"
+            "Nordic Folk Music"
         ],
         "secondaryGenres": [
             "Ritual Ambient",
-            "Tribal                                 Ambient",
+            "Tribal Ambient",
             "Norwegian Folk Music"
         ],
         "descriptors": [
@@ -666,7 +666,7 @@
             "Instrumental Hip Hop"
         ],
         "secondaryGenres": [
-            "Boom                                 Bap",
+            "Boom Bap",
             "Spiritual Jazz",
             "Experimental Hip Hop"
         ],
@@ -783,7 +783,7 @@
             "Trap"
         ],
         "secondaryGenres": [
-            "Cloud                                 Rap",
+            "Cloud Rap",
             "Nightcore",
             "HexD",
             "Electropop",
@@ -810,7 +810,7 @@
         "ratings": 220,
         "reviews": 3,
         "primaryGenres": [
-            "Death                                 Metal"
+            "Death Metal"
         ],
         "secondaryGenres": [
             "Progressive Metal",
@@ -851,7 +851,7 @@
         "primaryGenres": [
             "Ambient",
             "Drone",
-            "Tape                                 Music"
+            "Tape Music"
         ],
         "secondaryGenres": [
             "Modern Classical"
@@ -879,7 +879,7 @@
         "albumArt": "https://e.snmc.io/i/300/w/9ba4025ca0f448d8924dff442beb4c52/8510379",
         "position": 25,
         "title": "Shyga! the Sunlight Mound",
-        "artist": "Psychedelic Porn Crumpets\n                        ",
+        "artist": "Psychedelic Porn Crumpets",
         "releaseDate": {
             "month": "February",
             "date": 5,
@@ -889,7 +889,7 @@
         "ratings": 432,
         "reviews": 3,
         "primaryGenres": [
-            "Heavy                                 Psych"
+            "Heavy Psych"
         ],
         "secondaryGenres": [
             "Garage Rock"
@@ -956,7 +956,7 @@
         "reviews": 6,
         "primaryGenres": [
             "Hardcore Hip Hop",
-            "East                                 Coast Hip Hop"
+            "East Coast Hip Hop"
         ],
         "secondaryGenres": [
             "Gangsta Rap"
@@ -980,7 +980,7 @@
         "albumArt": "https://e.snmc.io/i/300/w/ba50a4dcf8276d7786e25a645b8ee369/8776952",
         "position": 28,
         "title": "Little Turtle's War",
-        "artist": "Pan-Amerikan Native Front\n                        ",
+        "artist": "Pan-Amerikan Native Front",
         "releaseDate": {
             "month": "February",
             "date": 5,
@@ -990,7 +990,7 @@
         "ratings": 42,
         "reviews": null,
         "primaryGenres": [
-            "Black                                 Metal"
+            "Black Metal"
         ],
         "secondaryGenres": [
             ""
@@ -1025,7 +1025,7 @@
             "Southern African Music"
         ],
         "secondaryGenres": [
-            "Soul                                 Jazz"
+            "Soul Jazz"
         ],
         "descriptors": [
             ""
@@ -1049,8 +1049,8 @@
         "ratings": null,
         "reviews": 12,
         "primaryGenres": [
-            "Power                                 Electronics",
-            "Drone                                 Metal"
+            "Power Electronics",
+            "Drone Metal"
         ],
         "secondaryGenres": [
             "Death Industrial",
@@ -1088,7 +1088,7 @@
         "ratings": 99,
         "reviews": 1,
         "primaryGenres": [
-            "Death                                 Metal"
+            "Death Metal"
         ],
         "secondaryGenres": [
             ""
@@ -1127,7 +1127,7 @@
         ],
         "secondaryGenres": [
             "Neoclassicism",
-            "Chamber                                 Music",
+            "Chamber Music",
             "Drone"
         ],
         "descriptors": [
@@ -1162,8 +1162,8 @@
         "ratings": null,
         "reviews": 118,
         "primaryGenres": [
-            "Chamber                                 Pop",
-            "Pop                                 Rock"
+            "Chamber Pop",
+            "Pop Rock"
         ],
         "secondaryGenres": [
             "Baroque Pop",
@@ -1204,7 +1204,7 @@
             "Melodic Black Metal"
         ],
         "secondaryGenres": [
-            "Doom                                 Metal",
+            "Doom Metal",
             "Heavy Metal"
         ],
         "descriptors": [
@@ -1237,7 +1237,7 @@
         "ratings": 84,
         "reviews": 2,
         "primaryGenres": [
-            "Thrash                                 Metal"
+            "Thrash Metal"
         ],
         "secondaryGenres": [
             ""
@@ -1266,7 +1266,7 @@
         "ratings": 173,
         "reviews": 2,
         "primaryGenres": [
-            "Horror                                 Synth",
+            "Horror Synth",
             "Progressive Electronic"
         ],
         "secondaryGenres": [
@@ -1375,11 +1375,11 @@
         "ratings": null,
         "reviews": 14,
         "primaryGenres": [
-            "Indie                                 Rock",
-            "Noise                                 Pop"
+            "Indie Rock",
+            "Noise Pop"
         ],
         "secondaryGenres": [
-            "Math                                 Rock",
+            "Math Rock",
             "Art Punk",
             "Dance-Punk"
         ],
