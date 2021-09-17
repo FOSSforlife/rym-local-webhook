@@ -1,44 +1,44 @@
 [
     {
-        "albumArt": "https://e.snmc.io/i/300/w/061ea457e6f2e33441a5f5ea9146bd0e/9178833",
+        "albumArt": "https://e.snmc.io/i/300/w/8600e69092be591b140ae24be68d6d2a/8892887",
         "position": 1,
-        "title": "HEY WHAT",
-        "artist": "Low",
+        "title": "Cutiemarks (And the Things That Bind Us)",
+        "artist": "Vylet Pony",
         "releaseDate": {
-            "month": "September",
-            "date": 10,
+            "month": "July",
+            "date": 30,
             "year": 2021
         },
-        "avgRating": 4.06,
-        "ratings": 83,
-        "reviews": 2,
+        "avgRating": 4.01,
+        "ratings": 86,
+        "reviews": 15,
         "primaryGenres": [
-            "Post-Industrial",
-            "Experimental Rock",
-            "Ambient Pop"
+            "Electronic Dance Music",
+            "Electropop"
         ],
         "secondaryGenres": [
-            "Noise",
-            "Drone",
-            "Electroacoustic",
-            "Glitch Pop",
-            "Ambient"
+            "Hyperpop",
+            "Brostep",
+            "Dance-Pop",
+            "Pop Rock",
+            "Drum and Bass"
         ],
         "descriptors": [
-            "avant-garde",
-            "atmospheric",
-            "noisy",
-            "dark",
-            "melancholic",
-            "abstract",
-            "spiritual",
-            "religious",
-            "meditative",
-            "apocalyptic"
+            "LGBT",
+            "female vocals",
+            "eclectic",
+            "rebellious",
+            "passionate",
+            "concept album",
+            "love",
+            "sentimental",
+            "bittersweet",
+            "introspective"
         ],
         "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/hey-what/1568438773?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://lowtheband.bandcamp.com/album/hey-what"
+            "appleMusic": "https://music.apple.com/us/album/cutiemarks-and-the-things-that-bind-us/1579572786?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://vyletpony.bandcamp.com/album/cutiemarks-and-the-things-that-bind-us",
+            "spotify": "https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB"
         }
     },
     {
@@ -51,9 +51,9 @@
             "date": 26,
             "year": 2021
         },
-        "avgRating": 3.84,
+        "avgRating": 3.83,
         "ratings": null,
-        "reviews": 171,
+        "reviews": 179,
         "primaryGenres": [
             "Avant-Prog"
         ],
@@ -65,8 +65,8 @@
             "Noise Rock"
         ],
         "descriptors": [
-            "complex",
             "chaotic",
+            "complex",
             "avant-garde",
             "male vocals",
             "technical",
@@ -96,7 +96,7 @@
         },
         "avgRating": 3.79,
         "ratings": null,
-        "reviews": 65,
+        "reviews": 69,
         "primaryGenres": [
             "Third Stream",
             "Post-Minimalism"
@@ -137,9 +137,9 @@
             "date": 25,
             "year": 2021
         },
-        "avgRating": 3.75,
+        "avgRating": 3.74,
         "ratings": null,
-        "reviews": 162,
+        "reviews": 176,
         "primaryGenres": [
             "West Coast Hip Hop"
         ],
@@ -157,8 +157,8 @@
             "sampling",
             "lush",
             "summer",
-            "rhythmic",
             "eclectic",
+            "rhythmic",
             "introspective"
         ],
         "externalLinks": {
@@ -179,7 +179,7 @@
         },
         "avgRating": 3.71,
         "ratings": null,
-        "reviews": 211,
+        "reviews": 220,
         "primaryGenres": [
             "Post-Rock",
             "Experimental Rock",
@@ -213,6 +213,48 @@
     {
         "albumArt": "https:",
         "position": 6,
+        "title": "HEY WHAT",
+        "artist": "Low",
+        "releaseDate": {
+            "month": "September",
+            "date": 10,
+            "year": 2021
+        },
+        "avgRating": 3.81,
+        "ratings": 289,
+        "reviews": 1,
+        "primaryGenres": [
+            "Post-Industrial",
+            "Experimental Rock",
+            "Ambient Pop"
+        ],
+        "secondaryGenres": [
+            "Drone",
+            "Noise",
+            "Electroacoustic",
+            "Glitch Pop",
+            "Ambient"
+        ],
+        "descriptors": [
+            "avant-garde",
+            "ethereal",
+            "male vocals",
+            "abstract",
+            "spiritual",
+            "atmospheric",
+            "female vocals",
+            "noisy",
+            "mysterious",
+            "hypnotic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/hey-what/1568438773?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://lowtheband.bandcamp.com/album/hey-what"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 7,
         "title": "To See the Next Part of the Dream",
         "artist": "파란노을 [Parannoul]",
         "releaseDate": {
@@ -220,9 +262,9 @@
             "date": 23,
             "year": 2021
         },
-        "avgRating": 3.72,
+        "avgRating": 3.71,
         "ratings": null,
-        "reviews": 111,
+        "reviews": 115,
         "primaryGenres": [
             "Shoegaze",
             "Emo"
@@ -241,19 +283,19 @@
             "alienation",
             "self-hatred",
             "atmospheric",
-            "depressive",
-            "concept album"
+            "concept album",
+            "depressive"
         ],
         "externalLinks": {
             "appleMusic": "https://music.apple.com/us/album/to-see-the-next-part-of-the-dream/1563369236?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
             "bandcamp": "https://parannoul.bandcamp.com/album/to-see-the-next-part-of-the-dream",
             "spotify": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ",
-            "youtube": "https://www.youtube.com/watch?v=tGaz4EJObiw"
+            "youtube": "https://www.youtube.com/watch?v=4bGkGwbqQS4"
         }
     },
     {
         "albumArt": "https:",
-        "position": 7,
+        "position": 8,
         "title": "Smiling With No Teeth",
         "artist": "Genesis Owusu",
         "releaseDate": {
@@ -263,7 +305,7 @@
         },
         "avgRating": 3.72,
         "ratings": null,
-        "reviews": 54,
+        "reviews": 55,
         "primaryGenres": [
             "Neo-Soul"
         ],
@@ -278,15 +320,15 @@
         ],
         "descriptors": [
             "eclectic",
-            "male vocals",
             "playful",
-            "energetic",
-            "rhythmic",
+            "male vocals",
             "conscious",
-            "political",
+            "rhythmic",
+            "energetic",
             "introspective",
             "quirky",
-            "optimistic"
+            "political",
+            "concept album"
         ],
         "externalLinks": {
             "appleMusic": "https://music.apple.com/us/album/smiling-with-no-teeth/1538031240?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
@@ -297,7 +339,47 @@
     },
     {
         "albumArt": "https:",
-        "position": 8,
+        "position": 9,
+        "title": "Stand for Myself",
+        "artist": "Yola",
+        "releaseDate": {
+            "month": "July",
+            "date": 30,
+            "year": 2021
+        },
+        "avgRating": 3.8,
+        "ratings": 145,
+        "reviews": 8,
+        "primaryGenres": [
+            "Country Soul",
+            "Pop Soul"
+        ],
+        "secondaryGenres": [
+            "Psychedelic Soul",
+            "Countrypolitan"
+        ],
+        "descriptors": [
+            "female vocals",
+            "warm",
+            "pastoral",
+            "passionate",
+            "psychedelic",
+            "soft",
+            "bittersweet",
+            "melodic",
+            "mellow",
+            "uplifting"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/stand-for-myself/1561240873?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://iamyola.bandcamp.com/album/stand-for-myself",
+            "soundcloud": "https://soundcloud.com/yola-sc/sets/stand-for-myself",
+            "spotify": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 10,
         "title": "Bright Green Field",
         "artist": "Squid",
         "releaseDate": {
@@ -305,9 +387,9 @@
             "date": 7,
             "year": 2021
         },
-        "avgRating": 3.69,
+        "avgRating": 3.68,
         "ratings": null,
-        "reviews": 114,
+        "reviews": 112,
         "primaryGenres": [
             "Art Punk",
             "Post-Punk",
@@ -326,9 +408,9 @@
             "abstract",
             "energetic",
             "rhythmic",
-            "progressive",
             "playful",
-            "complex"
+            "complex",
+            "progressive"
         ],
         "externalLinks": {
             "appleMusic": "https://music.apple.com/us/album/bright-green-field/1544474458?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
@@ -338,7 +420,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 9,
+        "position": 11,
         "title": "A Tiny House, In Secret Speeches, Polar Equals",
         "artist": "Sweet Trip",
         "releaseDate": {
@@ -346,9 +428,9 @@
             "date": 28,
             "year": 2021
         },
-        "avgRating": 3.69,
+        "avgRating": 3.68,
         "ratings": null,
-        "reviews": 50,
+        "reviews": 54,
         "primaryGenres": [
             "Dream Pop",
             "Indietronica",
@@ -358,8 +440,7 @@
             "Shoegaze",
             "Glitch Pop",
             "Neo-Psychedelia",
-            "IDM",
-            "Indie Pop"
+            "IDM"
         ],
         "descriptors": [
             "lush",
@@ -367,63 +448,21 @@
             "dense",
             "ethereal",
             "male vocals",
-            "atmospheric",
             "love",
             "warm",
+            "atmospheric",
             "uplifting",
             "melodic"
         ],
         "externalLinks": {
             "appleMusic": "https://music.apple.com/us/album/a-tiny-house-in-secret-speeches-polar-equals/1566025467?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
             "soundcloud": "https://soundcloud.com/sweettrip/sets/a-tiny-house-in-secret",
-            "spotify": "https://open.spotify.com/album/2BmN3iADvY11ikHcDsILNR",
-            "youtube": "https://www.youtube.com/watch?v=D1ohx8ukBcs"
+            "spotify": "https://open.spotify.com/album/2BmN3iADvY11ikHcDsILNR"
         }
     },
     {
         "albumArt": "https:",
-        "position": 10,
-        "title": "Trava línguas",
-        "artist": "Linn da Quebrada",
-        "releaseDate": {
-            "month": "July",
-            "date": 16,
-            "year": 2021
-        },
-        "avgRating": 3.76,
-        "ratings": 133,
-        "reviews": 1,
-        "primaryGenres": [
-            "UK Bass",
-            "Art Pop"
-        ],
-        "secondaryGenres": [
-            "MPB",
-            "Vocal Jazz",
-            "Experimental Hip Hop"
-        ],
-        "descriptors": [
-            "playful",
-            "LGBT",
-            "poetic",
-            "sensual",
-            "female vocals",
-            "passionate",
-            "conscious",
-            "introspective",
-            "warm",
-            "love"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/trava-l%C3%ADnguas/1575292544?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://linndaquebrada.bandcamp.com/album/trava-l-nguas",
-            "soundcloud": "https://soundcloud.com/linndaquebrada/sets/trava-linguas-1",
-            "spotify": "https://open.spotify.com/album/7MpgDfdAVvQjQ2pZ9NYvh6"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 11,
+        "position": 12,
         "title": "The Turning Wheel",
         "artist": "Spellling",
         "releaseDate": {
@@ -433,7 +472,7 @@
         },
         "avgRating": 3.67,
         "ratings": null,
-        "reviews": 59,
+        "reviews": 71,
         "primaryGenres": [
             "Art Pop",
             "Baroque Pop"
@@ -450,10 +489,10 @@
             "triumphant",
             "female vocals",
             "ethereal",
+            "psychedelic",
             "surreal",
             "nature",
             "melodic",
-            "psychedelic",
             "cryptic"
         ],
         "externalLinks": {
@@ -466,7 +505,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 12,
+        "position": 13,
         "title": "G_d's Pee AT STATE'S END!",
         "artist": "Godspeed You! Black Emperor",
         "releaseDate": {
@@ -474,9 +513,9 @@
             "date": 2,
             "year": 2021
         },
-        "avgRating": 3.65,
+        "avgRating": 3.64,
         "ratings": null,
-        "reviews": 97,
+        "reviews": 99,
         "primaryGenres": [
             "Post-Rock"
         ],
@@ -506,7 +545,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 13,
+        "position": 14,
         "title": "Jubilee",
         "artist": "Japanese Breakfast",
         "releaseDate": {
@@ -514,17 +553,17 @@
             "date": 4,
             "year": 2021
         },
-        "avgRating": 3.64,
+        "avgRating": 3.65,
         "ratings": null,
-        "reviews": 47,
+        "reviews": 51,
         "primaryGenres": [
             "Indie Pop",
             "Chamber Pop"
         ],
         "secondaryGenres": [
             "Synthpop",
-            "Dream Pop",
             "Indie Rock",
+            "Dream Pop",
             "Sunshine Pop"
         ],
         "descriptors": [
@@ -549,7 +588,86 @@
     },
     {
         "albumArt": "https:",
-        "position": 14,
+        "position": 15,
+        "title": "Imperative Imperceptible Impulse",
+        "artist": "Ad Nauseam",
+        "releaseDate": {
+            "month": "February",
+            "date": 12,
+            "year": 2021
+        },
+        "avgRating": 3.63,
+        "ratings": null,
+        "reviews": 25,
+        "primaryGenres": [
+            "Technical Death Metal",
+            "Avant-Garde Metal"
+        ],
+        "secondaryGenres": [
+            "Progressive Metal",
+            "Sonorism"
+        ],
+        "descriptors": [
+            "uncommon time signatures",
+            "technical",
+            "dissonant",
+            "complex",
+            "aggressive",
+            "heavy",
+            "avant-garde",
+            "male vocals",
+            "dense",
+            "atmospheric"
+        ],
+        "externalLinks": {
+            "bandcamp": "https://adnauseam-official.bandcamp.com/album/imperative-imperceptible-impulse-full-dynamic-range-dr11",
+            "soundcloud": "https://soundcloud.com/nflcczyzoqi0/ad-nauseam-imperative",
+            "youtube": "https://www.youtube.com/watch?v=U6v_IvHfnfU"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 16,
+        "title": "Holoceno",
+        "artist": "Papangu",
+        "releaseDate": {
+            "month": "June",
+            "date": 25,
+            "year": 2021
+        },
+        "avgRating": 3.67,
+        "ratings": 627,
+        "reviews": 5,
+        "primaryGenres": [
+            "Avant-Garde Metal",
+            "Zeuhl",
+            "Sludge Metal"
+        ],
+        "secondaryGenres": [
+            "Brutal Prog",
+            "Progressive Metal"
+        ],
+        "descriptors": [
+            "dense",
+            "complex",
+            "progressive",
+            "surreal",
+            "psychedelic",
+            "technical",
+            "cryptic",
+            "male vocals",
+            "concept album",
+            "ritualistic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/holoceno/1571502346?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://papangu.bandcamp.com/album/papangu",
+            "spotify": "https://open.spotify.com/album/5KWddjnglQLxqJ9Fc8sRCN"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 17,
         "title": "...and Again Into the Light",
         "artist": "Panopticon",
         "releaseDate": {
@@ -557,9 +675,9 @@
             "date": 15,
             "year": 2021
         },
-        "avgRating": 3.65,
+        "avgRating": 3.64,
         "ratings": null,
-        "reviews": 13,
+        "reviews": 14,
         "primaryGenres": [
             "Atmospheric Black Metal"
         ],
@@ -583,51 +701,12 @@
         "externalLinks": {
             "appleMusic": "https://music.apple.com/us/album/and-again-into-the-light/1563194198?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
             "bandcamp": "https://thetruepanopticon.bandcamp.com/album/and-again-into-the-light",
-            "spotify": "https://open.spotify.com/album/4QcHeJduU3DIvnSSkGNqHf",
-            "youtube": "https://www.youtube.com/watch?v=y1ja2h1_F5k"
+            "spotify": "https://open.spotify.com/album/4QcHeJduU3DIvnSSkGNqHf"
         }
     },
     {
         "albumArt": "https:",
-        "position": 15,
-        "title": "Imperative Imperceptible Impulse",
-        "artist": "Ad Nauseam",
-        "releaseDate": {
-            "month": "February",
-            "date": 12,
-            "year": 2021
-        },
-        "avgRating": 3.64,
-        "ratings": null,
-        "reviews": 24,
-        "primaryGenres": [
-            "Technical Death Metal",
-            "Avant-Garde Metal"
-        ],
-        "secondaryGenres": [
-            "Progressive Metal",
-            "Sonorism"
-        ],
-        "descriptors": [
-            "uncommon time signatures",
-            "technical",
-            "dissonant",
-            "complex",
-            "aggressive",
-            "heavy",
-            "avant-garde",
-            "male vocals",
-            "dense",
-            "atmospheric"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://adnauseam-official.bandcamp.com/album/imperative-imperceptible-impulse-full-dynamic-range-dr11",
-            "youtube": "https://www.youtube.com/watch?v=U6v_IvHfnfU"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 16,
+        "position": 18,
         "title": "Pool",
         "artist": "Skee Mask",
         "releaseDate": {
@@ -635,9 +714,9 @@
             "date": 7,
             "year": 2021
         },
-        "avgRating": 3.65,
+        "avgRating": 3.64,
         "ratings": null,
-        "reviews": 8,
+        "reviews": 10,
         "primaryGenres": [
             "IDM",
             "Breakbeat",
@@ -651,98 +730,19 @@
         ],
         "descriptors": [
             "atmospheric",
-            "repetitive",
             "hypnotic",
+            "repetitive",
             "rhythmic",
             "mechanical",
             "instrumental",
-            "futuristic",
             "mysterious",
+            "futuristic",
             "sampling",
-            "cold"
+            "complex"
         ],
         "externalLinks": {
             "bandcamp": "https://iliantape.bandcamp.com/album/itlp09-skee-mask-pool",
             "soundcloud": "https://soundcloud.com/ilian-tape/itlp09-skee-mask-pool"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 17,
-        "title": "Solar Paroxysm",
-        "artist": "Mare Cognitum",
-        "releaseDate": {
-            "month": "March",
-            "date": 19,
-            "year": 2021
-        },
-        "avgRating": 3.63,
-        "ratings": null,
-        "reviews": 16,
-        "primaryGenres": [
-            "Atmospheric Black Metal"
-        ],
-        "secondaryGenres": [
-            "Melodic Black Metal"
-        ],
-        "descriptors": [
-            "melodic",
-            "epic",
-            "male vocals",
-            "atmospheric",
-            "space",
-            "heavy",
-            "aggressive",
-            "energetic",
-            "poetic",
-            "dense"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/solar-paroxysm/1556413817?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://marecognitum.bandcamp.com/album/solar-paroxysm",
-            "soundcloud": "https://soundcloud.com/marecognitum/sets/solar-paroxysm",
-            "spotify": "https://open.spotify.com/album/5w0u922qWYRWXN6WPoqy9Y",
-            "youtube": "https://www.youtube.com/watch?v=LzK0fp1ZJ18"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 18,
-        "title": "Holoceno",
-        "artist": "Papangu",
-        "releaseDate": {
-            "month": "June",
-            "date": 25,
-            "year": 2021
-        },
-        "avgRating": 3.67,
-        "ratings": 332,
-        "reviews": 4,
-        "primaryGenres": [
-            "Avant-Garde Metal",
-            "Zeuhl",
-            "Sludge Metal"
-        ],
-        "secondaryGenres": [
-            "Progressive Metal",
-            "Brutal Prog"
-        ],
-        "descriptors": [
-            "dense",
-            "surreal",
-            "complex",
-            "cryptic",
-            "male vocals",
-            "progressive",
-            "psychedelic",
-            "triumphant",
-            "ritualistic",
-            "concept album"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/holoceno/1571502346?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://papangu.bandcamp.com/album/papangu",
-            "spotify": "https://open.spotify.com/album/5KWddjnglQLxqJ9Fc8sRCN"
         }
     },
     {
@@ -755,9 +755,9 @@
             "date": 28,
             "year": 2021
         },
-        "avgRating": 3.64,
-        "ratings": 505,
-        "reviews": 9,
+        "avgRating": 3.65,
+        "ratings": 594,
+        "reviews": 12,
         "primaryGenres": [
             "Technical Death Metal",
             "Progressive Metal"
@@ -787,38 +787,87 @@
     {
         "albumArt": "https:",
         "position": 20,
-        "title": "Navy's Reprise",
-        "artist": "Navy Blue",
+        "title": "Solar Paroxysm",
+        "artist": "Mare Cognitum",
         "releaseDate": {
-            "month": "May",
-            "date": 21,
+            "month": "March",
+            "date": 19,
             "year": 2021
         },
-        "avgRating": 3.65,
-        "ratings": 312,
-        "reviews": 3,
+        "avgRating": 3.63,
+        "ratings": null,
+        "reviews": 17,
         "primaryGenres": [
-            "East Coast Hip Hop",
-            "Abstract Hip Hop",
-            "Conscious Hip Hop"
+            "Atmospheric Black Metal"
         ],
         "secondaryGenres": [
-            "Jazz Rap"
+            "Melodic Black Metal"
         ],
         "descriptors": [
-            "abstract",
-            "mellow",
-            "conscious",
-            "introspective",
-            "lush",
+            "melodic",
+            "epic",
             "male vocals",
-            "sampling"
+            "atmospheric",
+            "space",
+            "heavy",
+            "aggressive",
+            "energetic",
+            "poetic",
+            "dense"
         ],
-        "externalLinks": {}
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/solar-paroxysm/1556413817?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://marecognitum.bandcamp.com/album/solar-paroxysm",
+            "soundcloud": "https://soundcloud.com/marecognitum/sets/solar-paroxysm",
+            "spotify": "https://open.spotify.com/album/5w0u922qWYRWXN6WPoqy9Y",
+            "youtube": "https://www.youtube.com/watch?v=LzK0fp1ZJ18"
+        }
     },
     {
         "albumArt": "https:",
         "position": 21,
+        "title": "Migration of Silence Into and Out of the Tone World (Volumes 1–10)",
+        "artist": "William Parker",
+        "releaseDate": {
+            "month": "January",
+            "date": 29,
+            "year": 2021
+        },
+        "avgRating": 3.67,
+        "ratings": 201,
+        "reviews": 5,
+        "primaryGenres": [
+            "Avant-Garde Jazz",
+            "Third Stream",
+            "Vocal Jazz"
+        ],
+        "secondaryGenres": [
+            "Free Improvisation",
+            "Spiritual Jazz",
+            "Jazz Poetry",
+            "Chamber Jazz",
+            "A cappella",
+            "Indigenous American Music"
+        ],
+        "descriptors": [
+            "improvisation",
+            "protest",
+            "female vocals",
+            "political",
+            "abstract",
+            "avant-garde",
+            "technical",
+            "ensemble",
+            "philosophical",
+            "suite"
+        ],
+        "externalLinks": {
+            "bandcamp": "https://williamparker.bandcamp.com/album/migration-of-silence-into-and-out-of-the-tone-world-volumes-1-10"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 22,
         "title": "Haram",
         "artist": "Armand Hammer & The Alchemist",
         "releaseDate": {
@@ -862,7 +911,42 @@
     },
     {
         "albumArt": "https:",
-        "position": 22,
+        "position": 23,
+        "title": "Navy's Reprise",
+        "artist": "Navy Blue",
+        "releaseDate": {
+            "month": "May",
+            "date": 21,
+            "year": 2021
+        },
+        "avgRating": 3.64,
+        "ratings": 359,
+        "reviews": 4,
+        "primaryGenres": [
+            "East Coast Hip Hop",
+            "Abstract Hip Hop",
+            "Conscious Hip Hop"
+        ],
+        "secondaryGenres": [
+            "Jazz Rap"
+        ],
+        "descriptors": [
+            "abstract",
+            "mellow",
+            "conscious",
+            "introspective",
+            "lush",
+            "male vocals",
+            "sampling"
+        ],
+        "externalLinks": {
+            "soundcloud": "https://soundcloud.com/eric-garsion/sets/navys-reprise",
+            "youtube": "https://www.youtube.com/watch?v=iiVw4-v7cOs"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 24,
         "title": "NieR Replicant ver.1.22474487139...",
         "artist": "岡部啓一 [Keiichi Okabe], 帆足圭吾 [Keigo Hoashi], 石濱翔 [Kakeru Ishihama] & 隆文西村 [Takafumi Nishimura]",
         "releaseDate": {
@@ -870,9 +954,9 @@
             "date": 21,
             "year": 2021
         },
-        "avgRating": 3.53,
-        "ratings": 307,
-        "reviews": 3,
+        "avgRating": 3.51,
+        "ratings": 309,
+        "reviews": 4,
         "primaryGenres": [
             "Video Game Music",
             "Cinematic Classical",
@@ -902,170 +986,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 23,
-        "title": "Migration of Silence Into and Out of the Tone World (Volumes 1–10)",
-        "artist": "William Parker",
-        "releaseDate": {
-            "month": "January",
-            "date": 29,
-            "year": 2021
-        },
-        "avgRating": 3.66,
-        "ratings": 194,
-        "reviews": 5,
-        "primaryGenres": [
-            "Avant-Garde Jazz",
-            "Third Stream",
-            "Vocal Jazz"
-        ],
-        "secondaryGenres": [
-            "Free Improvisation",
-            "Spiritual Jazz",
-            "Chamber Jazz",
-            "Jazz Poetry",
-            "A cappella",
-            "Latin Jazz",
-            "Avant-Folk",
-            "Traditional Indigenous American Music"
-        ],
-        "descriptors": [
-            "improvisation",
-            "protest",
-            "female vocals",
-            "political",
-            "abstract",
-            "avant-garde",
-            "technical",
-            "ensemble",
-            "philosophical",
-            "suite"
-        ],
-        "externalLinks": {
-            "bandcamp": "https://williamparker.bandcamp.com/album/migration-of-silence-into-and-out-of-the-tone-world-volumes-1-10"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 24,
-        "title": "Lucy & Aaron",
-        "artist": "Aaron Dilloway & Lucrecia Dalt",
-        "releaseDate": {
-            "month": "July",
-            "date": 16,
-            "year": 2021
-        },
-        "avgRating": 3.7,
-        "ratings": 108,
-        "reviews": 2,
-        "primaryGenres": [
-            "Tape Music",
-            "Industrial"
-        ],
-        "secondaryGenres": [
-            "Dark Ambient",
-            "Noise",
-            "Electroacoustic",
-            "Glitch",
-            "Hypnagogic Pop"
-        ],
-        "descriptors": [
-            "ominous",
-            "sampling",
-            "dark",
-            "hypnotic",
-            "surreal",
-            "mysterious",
-            "avant-garde",
-            "mechanical"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/lucy-aaron/1564329563?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://hansonrecords.bandcamp.com/album/lucy-aaron-2",
-            "spotify": "https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA"
-        }
-    },
-    {
-        "albumArt": "https:",
         "position": 25,
-        "title": "I Lie Here Buried With My Rings and My Dresses",
-        "artist": "Backxwash",
-        "releaseDate": {
-            "month": "June",
-            "date": 20,
-            "year": 2021
-        },
-        "avgRating": 3.58,
-        "ratings": null,
-        "reviews": 30,
-        "primaryGenres": [
-            "Industrial Hip Hop",
-            "Horrorcore"
-        ],
-        "secondaryGenres": [
-            "Political Hip Hop",
-            "Industrial Metal"
-        ],
-        "descriptors": [
-            "female vocals",
-            "LGBT",
-            "dark",
-            "aggressive",
-            "angry",
-            "heavy",
-            "noisy",
-            "ominous",
-            "drugs",
-            "sampling"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/i-lie-here-buried-with-my-rings-and-my-dresses/1570917460?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://backxwash.bandcamp.com/album/i-lie-here-buried-with-my-rings-and-my-dresses",
-            "spotify": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD",
-            "youtube": "https://www.youtube.com/watch?v=9y_sBea80Gg"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 26,
-        "title": "For My Mama and Anyone Who Look Like Her",
-        "artist": "McKinley Dixon",
-        "releaseDate": {
-            "month": "May",
-            "date": 7,
-            "year": 2021
-        },
-        "avgRating": 3.61,
-        "ratings": 559,
-        "reviews": 7,
-        "primaryGenres": [
-            "Jazz Rap",
-            "Southern Hip Hop"
-        ],
-        "secondaryGenres": [
-            "Neo-Soul",
-            "Conscious Hip Hop"
-        ],
-        "descriptors": [
-            "conscious",
-            "male vocals",
-            "existential",
-            "lush",
-            "rhythmic",
-            "urban",
-            "melodic",
-            "poetic"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/for-my-mama-and-anyone-who-look-like-her/1551374275?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://mckinleydixon.bandcamp.com/album/for-my-mama-and-anyone-who-look-like-her",
-            "soundcloud": "https://soundcloud.com/mc-kinley/sets/for-my-mama-and-anyone-who",
-            "spotify": "https://open.spotify.com/album/0lSaPO2OKn5eeUCiEcbumJ",
-            "youtube": "https://www.youtube.com/watch?v=7d9sPJFRjAY"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 27,
         "title": "The Machine Is Burning and Now Everyone Knows It Could Happen Again",
         "artist": "BRUIT ≤",
         "releaseDate": {
@@ -1073,9 +994,9 @@
             "date": 2,
             "year": 2021
         },
-        "avgRating": 3.6,
+        "avgRating": 3.61,
         "ratings": null,
-        "reviews": 22,
+        "reviews": 23,
         "primaryGenres": [
             "Post-Rock"
         ],
@@ -1083,7 +1004,8 @@
             "Ambient",
             "Modern Classical",
             "Drone",
-            "Chamber Music"
+            "Chamber Music",
+            "Electronic"
         ],
         "descriptors": [
             "instrumental",
@@ -1104,7 +1026,167 @@
     },
     {
         "albumArt": "https:",
+        "position": 26,
+        "title": "I Lie Here Buried With My Rings and My Dresses",
+        "artist": "Backxwash",
+        "releaseDate": {
+            "month": "June",
+            "date": 20,
+            "year": 2021
+        },
+        "avgRating": 3.57,
+        "ratings": null,
+        "reviews": 35,
+        "primaryGenres": [
+            "Industrial Hip Hop",
+            "Horrorcore"
+        ],
+        "secondaryGenres": [
+            "Political Hip Hop",
+            "Industrial Metal"
+        ],
+        "descriptors": [
+            "female vocals",
+            "LGBT",
+            "aggressive",
+            "dark",
+            "angry",
+            "heavy",
+            "noisy",
+            "ominous",
+            "drugs",
+            "sampling"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/i-lie-here-buried-with-my-rings-and-my-dresses/1570917460?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://backxwash.bandcamp.com/album/i-lie-here-buried-with-my-rings-and-my-dresses",
+            "spotify": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD",
+            "youtube": "https://www.youtube.com/watch?v=9y_sBea80Gg"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 27,
+        "title": "Animal",
+        "artist": "LUMP",
+        "releaseDate": {
+            "month": "July",
+            "date": 30,
+            "year": 2021
+        },
+        "avgRating": 3.65,
+        "ratings": 262,
+        "reviews": 6,
+        "primaryGenres": [
+            "Art Pop",
+            "Indie Pop",
+            "Indietronica"
+        ],
+        "secondaryGenres": [
+            "Neo-Psychedelia",
+            "Folktronica",
+            "Chamber Pop"
+        ],
+        "descriptors": [
+            "female vocals",
+            "psychedelic",
+            "melodic",
+            "atmospheric",
+            "melancholic",
+            "quirky",
+            "cryptic",
+            "warm",
+            "poetic",
+            "bittersweet"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/animal/1565398489?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://lump.bandcamp.com/album/animal",
+            "spotify": "https://open.spotify.com/album/1UiSJKr1F1Y3ZwbCw67JV2"
+        }
+    },
+    {
+        "albumArt": "https:",
         "position": 28,
+        "title": "For My Mama and Anyone Who Look Like Her",
+        "artist": "McKinley Dixon",
+        "releaseDate": {
+            "month": "May",
+            "date": 7,
+            "year": 2021
+        },
+        "avgRating": 3.6,
+        "ratings": 678,
+        "reviews": 7,
+        "primaryGenres": [
+            "Jazz Rap",
+            "Southern Hip Hop"
+        ],
+        "secondaryGenres": [
+            "Neo-Soul",
+            "Conscious Hip Hop"
+        ],
+        "descriptors": [
+            "male vocals",
+            "conscious",
+            "existential",
+            "rhythmic",
+            "urban",
+            "lush",
+            "melodic",
+            "poetic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/for-my-mama-and-anyone-who-look-like-her/1551374275?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://mckinleydixon.bandcamp.com/album/for-my-mama-and-anyone-who-look-like-her",
+            "soundcloud": "https://soundcloud.com/mc-kinley/sets/for-my-mama-and-anyone-who",
+            "spotify": "https://open.spotify.com/album/0lSaPO2OKn5eeUCiEcbumJ",
+            "youtube": "https://www.youtube.com/watch?v=7d9sPJFRjAY"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 29,
+        "title": "Debonair",
+        "artist": "Horsey",
+        "releaseDate": {
+            "month": "July",
+            "date": 30,
+            "year": 2021
+        },
+        "avgRating": 3.66,
+        "ratings": 152,
+        "reviews": 3,
+        "primaryGenres": [
+            "Art Rock",
+            "Art Punk"
+        ],
+        "secondaryGenres": [
+            "Jazz-Rock",
+            "Post-Punk",
+            "Experimental Rock"
+        ],
+        "descriptors": [
+            "quirky",
+            "male vocals",
+            "energetic",
+            "humorous",
+            "sarcastic",
+            "passionate",
+            "psychedelic",
+            "eclectic",
+            "manic",
+            "chaotic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/debonair/1576176789?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://horseyyy.bandcamp.com/album/debonair",
+            "spotify": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 30,
         "title": "Vadak",
         "artist": "Thy Catafalque",
         "releaseDate": {
@@ -1112,9 +1194,9 @@
             "date": 25,
             "year": 2021
         },
-        "avgRating": 3.61,
-        "ratings": 567,
-        "reviews": 5,
+        "avgRating": 3.59,
+        "ratings": 762,
+        "reviews": 8,
         "primaryGenres": [
             "Progressive Metal",
             "Avant-Garde Metal"
@@ -1128,13 +1210,13 @@
         "descriptors": [
             "female vocals",
             "male vocals",
-            "ethereal",
-            "existential",
             "mythology",
+            "existential",
             "nature",
+            "ethereal",
             "progressive",
             "avant-garde",
-            "spiritual",
+            "epic",
             "melodic"
         ],
         "externalLinks": {
@@ -1147,51 +1229,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 29,
-        "title": "\"Disco!\"",
-        "artist": "MIKE",
-        "releaseDate": {
-            "month": "June",
-            "date": 21,
-            "year": 2021
-        },
-        "avgRating": 3.58,
-        "ratings": null,
-        "reviews": 13,
-        "primaryGenres": [
-            "Abstract Hip Hop",
-            "Experimental Hip Hop",
-            "East Coast Hip Hop",
-            "Disco Rap"
-        ],
-        "secondaryGenres": [
-            "Jazz Rap",
-            "Hypnagogic Pop",
-            "Conscious Hip Hop"
-        ],
-        "descriptors": [
-            "sampling",
-            "introspective",
-            "lo-fi",
-            "psychedelic",
-            "atmospheric",
-            "hypnotic",
-            "male vocals",
-            "surreal",
-            "abstract",
-            "optimistic"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/disco/1571988842?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://mikelikesrap.bandcamp.com/album/disco",
-            "soundcloud": "https://soundcloud.com/t6mikee/disco-1",
-            "spotify": "https://open.spotify.com/album/2h8RTxYBE8eNvSrB7quw9N",
-            "youtube": "https://www.youtube.com/watch?v=A9-1Ne03N5M"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 30,
+        "position": 31,
         "title": "Minari",
         "artist": "Emile Mosseri",
         "releaseDate": {
@@ -1200,7 +1238,7 @@
             "year": 2021
         },
         "avgRating": 3.6,
-        "ratings": 505,
+        "ratings": 532,
         "reviews": null,
         "primaryGenres": [
             "Film Score",
@@ -1209,7 +1247,8 @@
         ],
         "secondaryGenres": [
             "Modern Classical",
-            "Cinematic Classical"
+            "Cinematic Classical",
+            "New Age"
         ],
         "descriptors": [
             "optimistic",
@@ -1230,49 +1269,49 @@
     },
     {
         "albumArt": "https:",
-        "position": 31,
-        "title": "IRA",
-        "artist": "IOSONOUNCANE",
+        "position": 32,
+        "title": "Spiral",
+        "artist": "Darkside",
         "releaseDate": {
-            "month": "May",
-            "date": 14,
+            "month": "July",
+            "date": 23,
             "year": 2021
         },
         "avgRating": 3.59,
-        "ratings": 912,
-        "reviews": 13,
+        "ratings": null,
+        "reviews": 16,
         "primaryGenres": [
-            "Post-Industrial",
-            "Darkwave"
+            "Neo-Psychedelia",
+            "Art Rock"
         ],
         "secondaryGenres": [
-            "Ritual Ambient",
-            "Experimental Rock",
-            "Progressive Electronic",
-            "Neofolk"
+            "Psychedelic Rock",
+            "Krautrock",
+            "Art Pop",
+            "Downtempo"
         ],
         "descriptors": [
-            "ominous",
+            "psychedelic",
             "atmospheric",
-            "dark",
-            "nocturnal",
+            "surreal",
             "male vocals",
-            "repetitive",
-            "sombre",
-            "ritualistic",
+            "hypnotic",
             "mysterious",
-            "scary"
+            "mellow",
+            "cryptic",
+            "warm",
+            "abstract"
         ],
         "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/ira/1560811975?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "soundcloud": "https://soundcloud.com/iosonouncaneofficial/sets/ira-924204590",
-            "spotify": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL",
-            "youtube": "https://www.youtube.com/watch?v=e3av7co3Juk"
+            "appleMusic": "https://music.apple.com/us/album/spiral/1555211976?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://darkside.bandcamp.com/album/spiral",
+            "soundcloud": "https://soundcloud.com/daftside-2/sets/spiral-604502686",
+            "spotify": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
         }
     },
     {
         "albumArt": "https:",
-        "position": 32,
+        "position": 33,
         "title": "Afrique Victime",
         "artist": "Mdou Moctar",
         "releaseDate": {
@@ -1280,9 +1319,9 @@
             "date": 21,
             "year": 2021
         },
-        "avgRating": 3.59,
+        "avgRating": 3.58,
         "ratings": null,
-        "reviews": 10,
+        "reviews": 11,
         "primaryGenres": [
             "Tishoumaren",
             "Psychedelic Rock"
@@ -1312,7 +1351,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 33,
+        "position": 34,
         "title": "Nafs at Peace",
         "artist": "Jaubi",
         "releaseDate": {
@@ -1320,8 +1359,8 @@
             "date": 28,
             "year": 2021
         },
-        "avgRating": 3.59,
-        "ratings": 538,
+        "avgRating": 3.6,
+        "ratings": 657,
         "reviews": 3,
         "primaryGenres": [
             "Spiritual Jazz",
@@ -1353,46 +1392,91 @@
     },
     {
         "albumArt": "https:",
-        "position": 34,
-        "title": "La grande folie",
-        "artist": "San Salvador",
+        "position": 35,
+        "title": "IRA",
+        "artist": "IOSONOUNCANE",
         "releaseDate": {
-            "month": "January",
-            "date": 22,
+            "month": "May",
+            "date": 14,
             "year": 2021
         },
-        "avgRating": 3.58,
-        "ratings": 577,
-        "reviews": 6,
+        "avgRating": 3.57,
+        "ratings": 971,
+        "reviews": 14,
         "primaryGenres": [
-            "Polyphonic Chant",
-            "Occitan Folk Music"
+            "Post-Industrial",
+            "Darkwave"
         ],
         "secondaryGenres": [
-            "Avant-Folk"
+            "Ritual Ambient",
+            "Experimental Rock",
+            "Progressive Electronic"
         ],
         "descriptors": [
-            "choral",
+            "ominous",
+            "atmospheric",
+            "dark",
+            "nocturnal",
             "male vocals",
-            "rhythmic",
-            "female vocals",
-            "energetic",
-            "polyphonic",
-            "folklore",
-            "acoustic",
-            "hypnotic",
-            "death"
+            "sombre",
+            "repetitive",
+            "ritualistic",
+            "mysterious",
+            "scary"
         ],
         "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/la-grande-folie/1534934143?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://san-salvador.bandcamp.com/album/la-grande-folie-2",
-            "soundcloud": "https://soundcloud.com/sansalvadorofficial/sets/la-grande-folie",
-            "spotify": "https://open.spotify.com/album/7l7XRFukaHudjfpaLhprBG"
+            "appleMusic": "https://music.apple.com/us/album/ira/1560811975?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "soundcloud": "https://soundcloud.com/iosonouncaneofficial/sets/ira-924204590",
+            "spotify": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL",
+            "youtube": "https://www.youtube.com/watch?v=e3av7co3Juk"
         }
     },
     {
         "albumArt": "https:",
-        "position": 35,
+        "position": 36,
+        "title": "\"Disco!\"",
+        "artist": "MIKE",
+        "releaseDate": {
+            "month": "June",
+            "date": 21,
+            "year": 2021
+        },
+        "avgRating": 3.56,
+        "ratings": null,
+        "reviews": 15,
+        "primaryGenres": [
+            "Abstract Hip Hop",
+            "Experimental Hip Hop",
+            "East Coast Hip Hop"
+        ],
+        "secondaryGenres": [
+            "Jazz Rap",
+            "Hypnagogic Pop",
+            "Conscious Hip Hop"
+        ],
+        "descriptors": [
+            "sampling",
+            "introspective",
+            "lo-fi",
+            "psychedelic",
+            "atmospheric",
+            "hypnotic",
+            "male vocals",
+            "surreal",
+            "abstract",
+            "optimistic"
+        ],
+        "externalLinks": {
+            "appleMusic": "https://music.apple.com/us/album/disco/1571988842?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
+            "bandcamp": "https://mikelikesrap.bandcamp.com/album/disco",
+            "soundcloud": "https://soundcloud.com/t6mikee/disco-1",
+            "spotify": "https://open.spotify.com/album/2h8RTxYBE8eNvSrB7quw9N",
+            "youtube": "https://www.youtube.com/watch?v=A9-1Ne03N5M"
+        }
+    },
+    {
+        "albumArt": "https:",
+        "position": 37,
         "title": "Carnage",
         "artist": "Nick Cave & Warren Ellis",
         "releaseDate": {
@@ -1402,7 +1486,7 @@
         },
         "avgRating": 3.54,
         "ratings": null,
-        "reviews": 37,
+        "reviews": 40,
         "primaryGenres": [
             "Chamber Pop",
             "Art Pop"
@@ -1429,7 +1513,7 @@
     },
     {
         "albumArt": "https:",
-        "position": 36,
+        "position": 38,
         "title": "Slitherman Activated",
         "artist": "RXK Nephew",
         "releaseDate": {
@@ -1437,20 +1521,21 @@
             "date": 28,
             "year": 2021
         },
-        "avgRating": 3.52,
+        "avgRating": 3.53,
         "ratings": null,
-        "reviews": 9,
+        "reviews": 10,
         "primaryGenres": [
             "Trap",
             "Gangsta Rap",
-            "East Coast Hip Hop",
-            "Experimental Hip Hop"
+            "Experimental Hip Hop",
+            "East Coast Hip Hop"
         ],
         "secondaryGenres": [
             "Drill",
             "Baltimore Club",
             "Detroit Trap",
-            "Hip House"
+            "Hip House",
+            "Abstract Hip Hop"
         ],
         "descriptors": [
             "humorous",
@@ -1458,10 +1543,10 @@
             "aggressive",
             "manic",
             "male vocals",
-            "chaotic",
             "violence",
-            "crime",
             "dense",
+            "chaotic",
+            "crime",
             "surreal"
         ],
         "externalLinks": {
@@ -1469,82 +1554,6 @@
             "bandcamp": "https://towheadrecordings.bandcamp.com/album/slitherman-activated",
             "soundcloud": "https://soundcloud.com/towheadrecordings/sets/rxk-nephew-slitherman-activated-tow006",
             "spotify": "https://open.spotify.com/album/3ssH1rsR77sY5T2hueOKgF"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 37,
-        "title": "TIME",
-        "artist": "Your Old Droog",
-        "releaseDate": {
-            "month": "June",
-            "date": 11,
-            "year": 2021
-        },
-        "avgRating": 3.58,
-        "ratings": 467,
-        "reviews": 2,
-        "primaryGenres": [
-            "East Coast Hip Hop"
-        ],
-        "secondaryGenres": [
-            "Boom Bap",
-            "Jazz Rap",
-            "Abstract Hip Hop"
-        ],
-        "descriptors": [
-            "introspective",
-            "mellow",
-            "concept album",
-            "sampling",
-            "abstract",
-            "urban",
-            "sentimental",
-            "male vocals"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/time/1571207322?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "bandcamp": "https://yourolddroog.bandcamp.com/album/time",
-            "soundcloud": "https://soundcloud.com/your-old-droog/sets/time-923334387",
-            "spotify": "https://open.spotify.com/album/7HKZvagOKy5Gq7dAXHiUrY"
-        }
-    },
-    {
-        "albumArt": "https:",
-        "position": 38,
-        "title": "Helloween",
-        "artist": "Helloween",
-        "releaseDate": {
-            "month": "June",
-            "date": 18,
-            "year": 2021
-        },
-        "avgRating": 3.55,
-        "ratings": 861,
-        "reviews": 19,
-        "primaryGenres": [
-            "Power Metal"
-        ],
-        "secondaryGenres": [
-            "Heavy Metal"
-        ],
-        "descriptors": [
-            "melodic",
-            "male vocals",
-            "energetic",
-            "triumphant",
-            "science fiction",
-            "happy",
-            "uplifting",
-            "passionate",
-            "epic",
-            "dense"
-        ],
-        "externalLinks": {
-            "appleMusic": "https://music.apple.com/us/album/helloween/1558061464?at=10l59k&ct=media-link&itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music",
-            "soundcloud": "https://soundcloud.com/helloween/sets/helloween-749103886",
-            "spotify": "https://open.spotify.com/album/1qHRm0MRGDZczHeggdvWDe",
-            "youtube": "https://www.youtube.com/watch?v=gLV530n3kMw"
         }
     },
     {
@@ -1598,7 +1607,7 @@
         },
         "avgRating": 3.54,
         "ratings": null,
-        "reviews": 26,
+        "reviews": 27,
         "primaryGenres": [
             "Progressive Pop",
             "Psychedelic Pop"
